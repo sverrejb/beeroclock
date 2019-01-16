@@ -18,6 +18,8 @@ for element in cities:
     city['longitude'] = element[5]
     citdict[element[-2]].append(city)
 
+print(len(citdict.keys()))
+
 for key in citdict.keys():
     try:
         jsondata[key] = random.sample(citdict[key], 3)
@@ -26,5 +28,5 @@ for key in citdict.keys():
 
 dump = json.dumps(jsondata, indent=2, ensure_ascii=False)
 
-with open('www/cities.json', 'w') as file:
+with open('cities.json', 'w') as file:
     file.write(dump)

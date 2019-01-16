@@ -1,0 +1,6263 @@
+{
+  "Europe/Andorra": [
+    {
+      "name": "Pas de la Casa",
+      "latitude": "42.54277",
+      "longitude": "1.73361"
+    },
+    {
+      "name": "Andorra la Vella",
+      "latitude": "42.50779",
+      "longitude": "1.52109"
+    },
+    {
+      "name": "les Escaldes",
+      "latitude": "42.50729",
+      "longitude": "1.53414"
+    }
+  ],
+  "Asia/Dubai": [
+    {
+      "name": "Al Fujayrah",
+      "latitude": "25.11641",
+      "longitude": "56.34141"
+    },
+    {
+      "name": "Adh Dhayd",
+      "latitude": "25.28812",
+      "longitude": "55.88157"
+    },
+    {
+      "name": "Abu Dhabi",
+      "latitude": "24.46667",
+      "longitude": "54.36667"
+    }
+  ],
+  "Asia/Kabul": [
+    {
+      "name": "Kushk-e Kuhnah",
+      "latitude": "34.8711",
+      "longitude": "62.54762"
+    },
+    {
+      "name": "Deh-e Şalāḩ",
+      "latitude": "35.69031",
+      "longitude": "69.31511"
+    },
+    {
+      "name": "Sarōbī",
+      "latitude": "34.58962",
+      "longitude": "69.76005"
+    }
+  ],
+  "America/Antigua": [
+    {
+      "name": "Potters Village",
+      "latitude": "17.11337",
+      "longitude": "-61.81962"
+    },
+    {
+      "name": "Codrington",
+      "latitude": "17.63333",
+      "longitude": "-61.83333"
+    },
+    {
+      "name": "All Saints",
+      "latitude": "17.06671",
+      "longitude": "-61.79303"
+    }
+  ],
+  "America/Anguilla": [
+    {
+      "name": "Stoney Ground",
+      "latitude": "18.22026",
+      "longitude": "-63.04607"
+    },
+    {
+      "name": "Island Harbour",
+      "latitude": "18.25601",
+      "longitude": "-63.0102"
+    },
+    {
+      "name": "North Hill Village",
+      "latitude": "18.20542",
+      "longitude": "-63.07847"
+    }
+  ],
+  "Europe/Tirane": [
+    {
+      "name": "Bicaj",
+      "latitude": "41.99472",
+      "longitude": "20.4125"
+    },
+    {
+      "name": "Memaliaj",
+      "latitude": "40.35167",
+      "longitude": "19.98028"
+    },
+    {
+      "name": "Ulëz",
+      "latitude": "41.68278",
+      "longitude": "19.89333"
+    }
+  ],
+  "Asia/Yerevan": [
+    {
+      "name": "Buzhakan",
+      "latitude": "40.45569",
+      "longitude": "44.51947"
+    },
+    {
+      "name": "Vayk’",
+      "latitude": "39.6889",
+      "longitude": "45.46668"
+    },
+    {
+      "name": "Vernashen",
+      "latitude": "39.79236",
+      "longitude": "45.36389"
+    }
+  ],
+  "Africa/Luanda": [
+    {
+      "name": "Cazaji",
+      "latitude": "-11.06715",
+      "longitude": "20.70148"
+    },
+    {
+      "name": "Caconda",
+      "latitude": "-13.73333",
+      "longitude": "15.06667"
+    },
+    {
+      "name": "Camabatela",
+      "latitude": "-8.18812",
+      "longitude": "15.37495"
+    }
+  ],
+  "Antarctica/McMurdo": [
+    {
+      "name": "McMurdo Station",
+      "latitude": "-77.846",
+      "longitude": "166.676"
+    }
+  ],
+  "America/Argentina/Buenos_Aires": [
+    {
+      "name": "Saladillo",
+      "latitude": "-35.63708",
+      "longitude": "-59.77788"
+    },
+    {
+      "name": "Ituzaingó",
+      "latitude": "-34.65803",
+      "longitude": "-58.66317"
+    },
+    {
+      "name": "Alberti",
+      "latitude": "-35.02692",
+      "longitude": "-60.27587"
+    }
+  ],
+  "America/Argentina/Cordoba": [
+    {
+      "name": "Santa Sylvina",
+      "latitude": "-27.83261",
+      "longitude": "-61.13747"
+    },
+    {
+      "name": "Salsacate",
+      "latitude": "-31.31649",
+      "longitude": "-65.08529"
+    },
+    {
+      "name": "Buchardo",
+      "latitude": "-34.72263",
+      "longitude": "-63.5092"
+    }
+  ],
+  "America/Argentina/San_Juan": [
+    {
+      "name": "Villa Paula de Sarmiento",
+      "latitude": "-31.4933",
+      "longitude": "-68.53838"
+    },
+    {
+      "name": "Villa Aberastain",
+      "latitude": "-31.65",
+      "longitude": "-68.58333"
+    },
+    {
+      "name": "Calingasta",
+      "latitude": "-31.33394",
+      "longitude": "-69.4208"
+    }
+  ],
+  "America/Argentina/Salta": [
+    {
+      "name": "General Manuel J. Campos",
+      "latitude": "-37.46025",
+      "longitude": "-63.58537"
+    },
+    {
+      "name": "La Adela",
+      "latitude": "-38.98333",
+      "longitude": "-64.08333"
+    },
+    {
+      "name": "Campo Quijano",
+      "latitude": "-24.90982",
+      "longitude": "-65.63656"
+    }
+  ],
+  "America/Argentina/Jujuy": [
+    {
+      "name": "Caimancito",
+      "latitude": "-23.74069",
+      "longitude": "-64.5937"
+    },
+    {
+      "name": "Calilegua",
+      "latitude": "-23.77368",
+      "longitude": "-64.77002"
+    },
+    {
+      "name": "Yuto",
+      "latitude": "-23.64342",
+      "longitude": "-64.47194"
+    }
+  ],
+  "America/Argentina/Tucuman": [
+    {
+      "name": "Yerba Buena",
+      "latitude": "-26.81667",
+      "longitude": "-65.31667"
+    },
+    {
+      "name": "Banda del Río Salí",
+      "latitude": "-26.83333",
+      "longitude": "-65.16667"
+    },
+    {
+      "name": "San Miguel de Tucumán",
+      "latitude": "-26.82414",
+      "longitude": "-65.2226"
+    }
+  ],
+  "America/Argentina/Rio_Gallegos": [
+    {
+      "name": "Puerto Deseado",
+      "latitude": "-47.75034",
+      "longitude": "-65.89382"
+    },
+    {
+      "name": "San Julián",
+      "latitude": "-49.30554",
+      "longitude": "-67.72743"
+    },
+    {
+      "name": "28 de Noviembre",
+      "latitude": "-51.5839",
+      "longitude": "-72.21382"
+    }
+  ],
+  "America/Argentina/La_Rioja": [
+    {
+      "name": "Villa Castelli",
+      "latitude": "-29.00295",
+      "longitude": "-68.21277"
+    },
+    {
+      "name": "Tama",
+      "latitude": "-30.50798",
+      "longitude": "-66.5298"
+    },
+    {
+      "name": "Chepes",
+      "latitude": "-31.35",
+      "longitude": "-66.6"
+    }
+  ],
+  "America/Argentina/Mendoza": [
+    {
+      "name": "Malargüe",
+      "latitude": "-35.47545",
+      "longitude": "-69.58427"
+    },
+    {
+      "name": "San Martín",
+      "latitude": "-33.08103",
+      "longitude": "-68.46814"
+    },
+    {
+      "name": "Mendoza",
+      "latitude": "-32.89084",
+      "longitude": "-68.82717"
+    }
+  ],
+  "America/Argentina/San_Luis": [
+    {
+      "name": "San Francisco del Monte de Oro",
+      "latitude": "-32.59825",
+      "longitude": "-66.12539"
+    },
+    {
+      "name": "Candelaria",
+      "latitude": "-32.06036",
+      "longitude": "-65.82477"
+    },
+    {
+      "name": "Unión",
+      "latitude": "-35.15282",
+      "longitude": "-65.94602"
+    }
+  ],
+  "America/Argentina/Ushuaia": [
+    {
+      "name": "Tolhuin",
+      "latitude": "-54.51083",
+      "longitude": "-67.1955"
+    },
+    {
+      "name": "Río Grande",
+      "latitude": "-53.78769",
+      "longitude": "-67.70946"
+    },
+    {
+      "name": "Ushuaia",
+      "latitude": "-54.8",
+      "longitude": "-68.3"
+    }
+  ],
+  "America/Argentina/Catamarca": [
+    {
+      "name": "Mutquín",
+      "latitude": "-28.32104",
+      "longitude": "-66.14253"
+    },
+    {
+      "name": "Paso de Indios",
+      "latitude": "-43.86225",
+      "longitude": "-69.04603"
+    },
+    {
+      "name": "Puerta de Corral Quemado",
+      "latitude": "-27.23",
+      "longitude": "-66.93635"
+    }
+  ],
+  "Pacific/Pago_Pago": [
+    {
+      "name": "Pago Pago",
+      "latitude": "-14.27806",
+      "longitude": "-170.7025"
+    },
+    {
+      "name": "Vaitogi",
+      "latitude": "-14.35889",
+      "longitude": "-170.73472"
+    },
+    {
+      "name": "Ta`ū",
+      "latitude": "-14.23361",
+      "longitude": "-169.51444"
+    }
+  ],
+  "Europe/Vienna": [
+    {
+      "name": "Mürzzuschlag",
+      "latitude": "47.6066",
+      "longitude": "15.67226"
+    },
+    {
+      "name": "Mitterkirchen im Machland",
+      "latitude": "48.18795",
+      "longitude": "14.69593"
+    },
+    {
+      "name": "Rehberg",
+      "latitude": "48.43114",
+      "longitude": "15.58702"
+    }
+  ],
+  "Europe/Berlin": [
+    {
+      "name": "Wiesenthau",
+      "latitude": "49.71326",
+      "longitude": "11.13564"
+    },
+    {
+      "name": "Wolfach",
+      "latitude": "48.29319",
+      "longitude": "8.2158"
+    },
+    {
+      "name": "Deißlingen",
+      "latitude": "48.1123",
+      "longitude": "8.60736"
+    }
+  ],
+  "Australia/Perth": [
+    {
+      "name": "North Fremantle",
+      "latitude": "-32.03333",
+      "longitude": "115.75"
+    },
+    {
+      "name": "Coolbinia",
+      "latitude": "-31.9147",
+      "longitude": "115.84894"
+    },
+    {
+      "name": "Dunsborough",
+      "latitude": "-33.61512",
+      "longitude": "115.10561"
+    }
+  ],
+  "Australia/Adelaide": [
+    {
+      "name": "Wattle Park",
+      "latitude": "-34.92516",
+      "longitude": "138.67501"
+    },
+    {
+      "name": "North Brighton",
+      "latitude": "-35.00279",
+      "longitude": "138.52211"
+    },
+    {
+      "name": "Ceduna",
+      "latitude": "-32.1266",
+      "longitude": "133.67271"
+    }
+  ],
+  "Australia/Darwin": [
+    {
+      "name": "Nhulunbuy",
+      "latitude": "-12.18165",
+      "longitude": "136.77841"
+    },
+    {
+      "name": "Alyangula",
+      "latitude": "-13.85413",
+      "longitude": "136.42129"
+    },
+    {
+      "name": "Nightcliff",
+      "latitude": "-12.38299",
+      "longitude": "130.8517"
+    }
+  ],
+  "Australia/Brisbane": [
+    {
+      "name": "Tamborine Mountain",
+      "latitude": "-27.96954",
+      "longitude": "153.19937"
+    },
+    {
+      "name": "Sandgate",
+      "latitude": "-27.32198",
+      "longitude": "153.06951"
+    },
+    {
+      "name": "Clear Island Waters",
+      "latitude": "-28.05308",
+      "longitude": "153.39815"
+    }
+  ],
+  "Australia/Sydney": [
+    {
+      "name": "Ashfield",
+      "latitude": "-33.88834",
+      "longitude": "151.12274"
+    },
+    {
+      "name": "Acton",
+      "latitude": "-35.27767",
+      "longitude": "149.11829"
+    },
+    {
+      "name": "Leeton",
+      "latitude": "-34.55105",
+      "longitude": "146.40483"
+    }
+  ],
+  "Australia/Melbourne": [
+    {
+      "name": "Aspendale Gardens",
+      "latitude": "-38.02277",
+      "longitude": "145.11798"
+    },
+    {
+      "name": "Oakleigh South",
+      "latitude": "-37.92416",
+      "longitude": "145.09146"
+    },
+    {
+      "name": "Echuca",
+      "latitude": "-36.14057",
+      "longitude": "144.75185"
+    }
+  ],
+  "Australia/Hobart": [
+    {
+      "name": "New Town",
+      "latitude": "-42.85758",
+      "longitude": "147.30869"
+    },
+    {
+      "name": "Austins Ferry",
+      "latitude": "-42.76667",
+      "longitude": "147.25"
+    },
+    {
+      "name": "Latrobe",
+      "latitude": "-41.24641",
+      "longitude": "146.42458"
+    }
+  ],
+  "Australia/Currie": [
+    {
+      "name": "Currie",
+      "latitude": "-39.92976",
+      "longitude": "143.85385"
+    }
+  ],
+  "Australia/Broken_Hill": [
+    {
+      "name": "Broken Hill",
+      "latitude": "-31.9652",
+      "longitude": "141.4512"
+    }
+  ],
+  "America/Aruba": [
+    {
+      "name": "Paradera",
+      "latitude": "12.5351",
+      "longitude": "-70.00688"
+    },
+    {
+      "name": "Tanki Leendert",
+      "latitude": "12.53914",
+      "longitude": "-70.02004"
+    },
+    {
+      "name": "Savaneta",
+      "latitude": "12.45026",
+      "longitude": "-69.93811"
+    }
+  ],
+  "Europe/Mariehamn": [
+    {
+      "name": "Brändö",
+      "latitude": "60.41165",
+      "longitude": "21.04534"
+    },
+    {
+      "name": "Sund",
+      "latitude": "60.25",
+      "longitude": "20.11667"
+    },
+    {
+      "name": "Jomala",
+      "latitude": "60.14902",
+      "longitude": "19.951"
+    }
+  ],
+  "Asia/Baku": [
+    {
+      "name": "Khyzy",
+      "latitude": "40.90847",
+      "longitude": "49.07481"
+    },
+    {
+      "name": "Xaçmaz",
+      "latitude": "41.46426",
+      "longitude": "48.80565"
+    },
+    {
+      "name": "Tazakend",
+      "latitude": "39.15459",
+      "longitude": "45.44282"
+    }
+  ],
+  "Europe/Sarajevo": [
+    {
+      "name": "Maslovare",
+      "latitude": "44.56594",
+      "longitude": "17.53216"
+    },
+    {
+      "name": "Skokovi",
+      "latitude": "45.03139",
+      "longitude": "15.91444"
+    },
+    {
+      "name": "Balatun",
+      "latitude": "44.86332",
+      "longitude": "19.33931"
+    }
+  ],
+  "America/Barbados": [
+    {
+      "name": "Greenland",
+      "latitude": "13.25808",
+      "longitude": "-59.57763"
+    },
+    {
+      "name": "Bridgetown",
+      "latitude": "13.10732",
+      "longitude": "-59.62021"
+    },
+    {
+      "name": "Bathsheba",
+      "latitude": "13.21133",
+      "longitude": "-59.52596"
+    }
+  ],
+  "Asia/Dhaka": [
+    {
+      "name": "Parvez Ali Hossain",
+      "latitude": "23.78758",
+      "longitude": "90.16487"
+    },
+    {
+      "name": "Sherpur",
+      "latitude": "25.01881",
+      "longitude": "90.01751"
+    },
+    {
+      "name": "Kushtia",
+      "latitude": "23.9028",
+      "longitude": "89.11943"
+    }
+  ],
+  "Europe/Brussels": [
+    {
+      "name": "Sint-Niklaas",
+      "latitude": "51.16509",
+      "longitude": "4.1437"
+    },
+    {
+      "name": "Saint-Ghislain",
+      "latitude": "50.44816",
+      "longitude": "3.81886"
+    },
+    {
+      "name": "Herselt",
+      "latitude": "51.05159",
+      "longitude": "4.88231"
+    }
+  ],
+  "Africa/Ouagadougou": [
+    {
+      "name": "Zitenga",
+      "latitude": "12.74846",
+      "longitude": "-1.30989"
+    },
+    {
+      "name": "Kombissiri",
+      "latitude": "12.06884",
+      "longitude": "-1.33644"
+    },
+    {
+      "name": "Bingo",
+      "latitude": "12.30092",
+      "longitude": "-1.8348"
+    }
+  ],
+  "Europe/Sofia": [
+    {
+      "name": "Dulovo",
+      "latitude": "43.81667",
+      "longitude": "27.15"
+    },
+    {
+      "name": "Lesichovo",
+      "latitude": "42.35626",
+      "longitude": "24.1119"
+    },
+    {
+      "name": "Venets",
+      "latitude": "43.55",
+      "longitude": "26.93333"
+    }
+  ],
+  "Asia/Bahrain": [
+    {
+      "name": "Al Muharraq",
+      "latitude": "26.25722",
+      "longitude": "50.61194"
+    },
+    {
+      "name": "Jidd Ḩafş",
+      "latitude": "26.21861",
+      "longitude": "50.54778"
+    },
+    {
+      "name": "Manama",
+      "latitude": "26.22787",
+      "longitude": "50.58565"
+    }
+  ],
+  "Africa/Bujumbura": [
+    {
+      "name": "Bubanza",
+      "latitude": "-3.0804",
+      "longitude": "29.391"
+    },
+    {
+      "name": "Cankuzo",
+      "latitude": "-3.2186",
+      "longitude": "30.5528"
+    },
+    {
+      "name": "Bururi",
+      "latitude": "-3.94877",
+      "longitude": "29.62438"
+    }
+  ],
+  "Africa/Porto-Novo": [
+    {
+      "name": "Natitingou",
+      "latitude": "10.30416",
+      "longitude": "1.37962"
+    },
+    {
+      "name": "Adjohon",
+      "latitude": "6.71853",
+      "longitude": "2.47759"
+    },
+    {
+      "name": "Kpomassè",
+      "latitude": "6.46216",
+      "longitude": "1.99362"
+    }
+  ],
+  "America/St_Barthelemy": [
+    {
+      "name": "Gustavia",
+      "latitude": "17.89618",
+      "longitude": "-62.84978"
+    }
+  ],
+  "Atlantic/Bermuda": [
+    {
+      "name": "Saint George",
+      "latitude": "32.38167",
+      "longitude": "-64.67806"
+    },
+    {
+      "name": "Hamilton",
+      "latitude": "32.2949",
+      "longitude": "-64.78303"
+    }
+  ],
+  "Asia/Brunei": [
+    {
+      "name": "Bangar",
+      "latitude": "4.71667",
+      "longitude": "115.06667"
+    },
+    {
+      "name": "Bandar Seri Begawan",
+      "latitude": "4.89035",
+      "longitude": "114.94006"
+    },
+    {
+      "name": "Kapok",
+      "latitude": "5.02447",
+      "longitude": "115.04664"
+    }
+  ],
+  "America/La_Paz": [
+    {
+      "name": "Nueva Manoa",
+      "latitude": "-9.71828",
+      "longitude": "-65.39544"
+    },
+    {
+      "name": "Huatajata",
+      "latitude": "-16.2",
+      "longitude": "-68.68333"
+    },
+    {
+      "name": "San Pedro",
+      "latitude": "-16.23717",
+      "longitude": "-68.85063"
+    }
+  ],
+  "America/Kralendijk": [
+    {
+      "name": "Oranjestad",
+      "latitude": "17.48303",
+      "longitude": "-62.9864"
+    },
+    {
+      "name": "Dorp Rincón",
+      "latitude": "12.23333",
+      "longitude": "-68.33333"
+    },
+    {
+      "name": "The Bottom",
+      "latitude": "17.6259",
+      "longitude": "-63.24919"
+    }
+  ],
+  "America/Fortaleza": [
+    {
+      "name": "Beberibe",
+      "latitude": "-4.17972",
+      "longitude": "-38.13056"
+    },
+    {
+      "name": "João Pessoa",
+      "latitude": "-7.115",
+      "longitude": "-34.86306"
+    },
+    {
+      "name": "Colinas",
+      "latitude": "-6.02583",
+      "longitude": "-44.24917"
+    }
+  ],
+  "America/Recife": [
+    {
+      "name": "Orobó",
+      "latitude": "-7.745",
+      "longitude": "-35.60222"
+    },
+    {
+      "name": "Pesqueira",
+      "latitude": "-8.35778",
+      "longitude": "-36.69639"
+    },
+    {
+      "name": "Paulista",
+      "latitude": "-7.94083",
+      "longitude": "-34.87306"
+    }
+  ],
+  "America/Belem": [
+    {
+      "name": "Tucumã",
+      "latitude": "-0.18333",
+      "longitude": "-50.05"
+    },
+    {
+      "name": "Gurupá",
+      "latitude": "-1.405",
+      "longitude": "-51.64"
+    },
+    {
+      "name": "Belém",
+      "latitude": "-1.45583",
+      "longitude": "-48.50444"
+    }
+  ],
+  "America/Maceio": [
+    {
+      "name": "Quebrangulo",
+      "latitude": "-9.31889",
+      "longitude": "-36.47111"
+    },
+    {
+      "name": "Nossa Senhora do Socorro",
+      "latitude": "-10.855",
+      "longitude": "-37.12611"
+    },
+    {
+      "name": "Coité do Nóia",
+      "latitude": "-9.63222",
+      "longitude": "-36.57861"
+    }
+  ],
+  "America/Manaus": [
+    {
+      "name": "Alvarães",
+      "latitude": "-3.22083",
+      "longitude": "-64.80417"
+    },
+    {
+      "name": "Autazes",
+      "latitude": "-3.57972",
+      "longitude": "-59.13056"
+    },
+    {
+      "name": "Santa Isabel do Rio Negro",
+      "latitude": "-0.41389",
+      "longitude": "-65.01917"
+    }
+  ],
+  "America/Bahia": [
+    {
+      "name": "Itaparica",
+      "latitude": "-12.88833",
+      "longitude": "-38.67861"
+    },
+    {
+      "name": "Conceição do Coité",
+      "latitude": "-11.56389",
+      "longitude": "-39.28278"
+    },
+    {
+      "name": "Guaratinga",
+      "latitude": "-16.58564",
+      "longitude": "-39.78189"
+    }
+  ],
+  "America/Santarem": [
+    {
+      "name": "Almeirim",
+      "latitude": "-1.52333",
+      "longitude": "-52.58167"
+    },
+    {
+      "name": "Jacareacanga",
+      "latitude": "-6.22222",
+      "longitude": "-57.75278"
+    },
+    {
+      "name": "Juruti",
+      "latitude": "-2.15222",
+      "longitude": "-56.09222"
+    }
+  ],
+  "America/Araguaina": [
+    {
+      "name": "São Geraldo do Araguaia",
+      "latitude": "-6.40056",
+      "longitude": "-48.555"
+    },
+    {
+      "name": "Taguatinga",
+      "latitude": "-12.40389",
+      "longitude": "-46.43611"
+    },
+    {
+      "name": "Palmas",
+      "latitude": "-10.16745",
+      "longitude": "-48.32766"
+    }
+  ],
+  "America/Noronha": [
+    {
+      "name": "Itamaracá",
+      "latitude": "-7.74778",
+      "longitude": "-34.82556"
+    },
+    {
+      "name": "Fernando de Noronha (Distrito Estadual)",
+      "latitude": "-3.84028",
+      "longitude": "-32.41083"
+    }
+  ],
+  "America/Sao_Paulo": [
+    {
+      "name": "Ibiá",
+      "latitude": "-19.47833",
+      "longitude": "-46.53889"
+    },
+    {
+      "name": "Rio Branco do Sul",
+      "latitude": "-25.19",
+      "longitude": "-49.31417"
+    },
+    {
+      "name": "Araguaiana",
+      "latitude": "-15.73389",
+      "longitude": "-51.83139"
+    }
+  ],
+  "America/Cuiaba": [
+    {
+      "name": "Nortelândia",
+      "latitude": "-14.45472",
+      "longitude": "-56.80278"
+    },
+    {
+      "name": "Santo Antônio do Leverger",
+      "latitude": "-15.86556",
+      "longitude": "-56.07667"
+    },
+    {
+      "name": "Arenápolis",
+      "latitude": "-14.45028",
+      "longitude": "-56.84611"
+    }
+  ],
+  "America/Campo_Grande": [
+    {
+      "name": "Paranaíba",
+      "latitude": "-19.67722",
+      "longitude": "-51.19083"
+    },
+    {
+      "name": "Bela Vista",
+      "latitude": "-22.10889",
+      "longitude": "-56.52111"
+    },
+    {
+      "name": "Bataiporã",
+      "latitude": "-22.29528",
+      "longitude": "-53.27111"
+    }
+  ],
+  "America/Rio_Branco": [
+    {
+      "name": "Marechal Thaumaturgo",
+      "latitude": "-8.94111",
+      "longitude": "-72.79167"
+    },
+    {
+      "name": "Rio Branco",
+      "latitude": "-9.97472",
+      "longitude": "-67.81"
+    },
+    {
+      "name": "Feijó",
+      "latitude": "-8.1654",
+      "longitude": "-70.35486"
+    }
+  ],
+  "America/Porto_Velho": [
+    {
+      "name": "Guajará Mirim",
+      "latitude": "-10.78356",
+      "longitude": "-65.33552"
+    },
+    {
+      "name": "Pôsto Fiscal Rolim de Moura",
+      "latitude": "-13.08271",
+      "longitude": "-62.27726"
+    },
+    {
+      "name": "Vilhena",
+      "latitude": "-12.74056",
+      "longitude": "-60.14583"
+    }
+  ],
+  "America/Eirunepe": [
+    {
+      "name": "Envira",
+      "latitude": "-7.3",
+      "longitude": "-70.21667"
+    },
+    {
+      "name": "Eirunepé",
+      "latitude": "-6.66028",
+      "longitude": "-69.87361"
+    },
+    {
+      "name": "Benjamin Constant",
+      "latitude": "-4.37555",
+      "longitude": "-70.03179"
+    }
+  ],
+  "America/Boa_Vista": [
+    {
+      "name": "Boa Vista",
+      "latitude": "2.81972",
+      "longitude": "-60.67333"
+    }
+  ],
+  "America/Nassau": [
+    {
+      "name": "Abraham’s Bay",
+      "latitude": "22.36667",
+      "longitude": "-72.96667"
+    },
+    {
+      "name": "San Andros",
+      "latitude": "25.06667",
+      "longitude": "-78.05"
+    },
+    {
+      "name": "Cooper’s Town",
+      "latitude": "26.87137",
+      "longitude": "-77.51131"
+    }
+  ],
+  "Asia/Thimphu": [
+    {
+      "name": "Daga",
+      "latitude": "27.07529",
+      "longitude": "89.87688"
+    },
+    {
+      "name": "Trashi Yangtse",
+      "latitude": "27.6116",
+      "longitude": "91.498"
+    },
+    {
+      "name": "Jakar",
+      "latitude": "27.54918",
+      "longitude": "90.7525"
+    }
+  ],
+  "Africa/Gaborone": [
+    {
+      "name": "Mopipi",
+      "latitude": "-21.18333",
+      "longitude": "24.88333"
+    },
+    {
+      "name": "Werda",
+      "latitude": "-25.26667",
+      "longitude": "23.28333"
+    },
+    {
+      "name": "Mochudi",
+      "latitude": "-24.41667",
+      "longitude": "26.15"
+    }
+  ],
+  "Europe/Minsk": [
+    {
+      "name": "Novogrudok",
+      "latitude": "53.5942",
+      "longitude": "25.8191"
+    },
+    {
+      "name": "Kholopenichi",
+      "latitude": "54.51746",
+      "longitude": "28.95645"
+    },
+    {
+      "name": "Starobin",
+      "latitude": "52.7267",
+      "longitude": "27.4606"
+    }
+  ],
+  "America/Belize": [
+    {
+      "name": "Shipyard",
+      "latitude": "17.89382",
+      "longitude": "-88.65452"
+    },
+    {
+      "name": "San Ignacio",
+      "latitude": "17.1588",
+      "longitude": "-89.0696"
+    },
+    {
+      "name": "Punta Gorda",
+      "latitude": "16.09835",
+      "longitude": "-88.8097"
+    }
+  ],
+  "America/Vancouver": [
+    {
+      "name": "Colwood",
+      "latitude": "48.43293",
+      "longitude": "-123.48591"
+    },
+    {
+      "name": "Castlegar",
+      "latitude": "49.29984",
+      "longitude": "-117.66894"
+    },
+    {
+      "name": "North Saanich",
+      "latitude": "48.66634",
+      "longitude": "-123.41933"
+    }
+  ],
+  "America/Toronto": [
+    {
+      "name": "Saint-Georges",
+      "latitude": "46.11353",
+      "longitude": "-70.66526"
+    },
+    {
+      "name": "Pohénégamook",
+      "latitude": "47.46315",
+      "longitude": "-69.22666"
+    },
+    {
+      "name": "Hanover",
+      "latitude": "44.15009",
+      "longitude": "-81.03303"
+    }
+  ],
+  "America/Edmonton": [
+    {
+      "name": "Wembley",
+      "latitude": "55.14995",
+      "longitude": "-119.13602"
+    },
+    {
+      "name": "Fort McMurray",
+      "latitude": "56.72676",
+      "longitude": "-111.38103"
+    },
+    {
+      "name": "Whitecourt",
+      "latitude": "54.15015",
+      "longitude": "-115.68548"
+    }
+  ],
+  "America/Halifax": [
+    {
+      "name": "Cornwall",
+      "latitude": "46.22652",
+      "longitude": "-63.21809"
+    },
+    {
+      "name": "Middleton",
+      "latitude": "44.94284",
+      "longitude": "-65.07022"
+    },
+    {
+      "name": "Truro",
+      "latitude": "45.36685",
+      "longitude": "-63.26538"
+    }
+  ],
+  "America/Winnipeg": [
+    {
+      "name": "Flin Flon",
+      "latitude": "54.76703",
+      "longitude": "-101.87433"
+    },
+    {
+      "name": "Dauphin",
+      "latitude": "51.14941",
+      "longitude": "-100.05023"
+    },
+    {
+      "name": "Thompson",
+      "latitude": "55.7435",
+      "longitude": "-97.85579"
+    }
+  ],
+  "America/Regina": [
+    {
+      "name": "Pilot Butte",
+      "latitude": "50.46678",
+      "longitude": "-104.41778"
+    },
+    {
+      "name": "Kamsack",
+      "latitude": "51.56668",
+      "longitude": "-101.90093"
+    },
+    {
+      "name": "Unity",
+      "latitude": "52.45014",
+      "longitude": "-109.16816"
+    }
+  ],
+  "America/Atikokan": [
+    {
+      "name": "Atikokan",
+      "latitude": "48.75667",
+      "longitude": "-91.62409"
+    }
+  ],
+  "America/St_Johns": [
+    {
+      "name": "Burgeo",
+      "latitude": "47.61668",
+      "longitude": "-57.61516"
+    },
+    {
+      "name": "Conception Bay South",
+      "latitude": "47.49989",
+      "longitude": "-52.99806"
+    },
+    {
+      "name": "Bonavista",
+      "latitude": "48.64989",
+      "longitude": "-53.11474"
+    }
+  ],
+  "America/Moncton": [
+    {
+      "name": "Saint-Léonard",
+      "latitude": "47.16317",
+      "longitude": "-67.9246"
+    },
+    {
+      "name": "Tracadie-Sheila",
+      "latitude": "47.51444",
+      "longitude": "-64.91806"
+    },
+    {
+      "name": "Fredericton",
+      "latitude": "45.94541",
+      "longitude": "-66.66558"
+    }
+  ],
+  "America/Dawson_Creek": [
+    {
+      "name": "Fort St. John",
+      "latitude": "56.24988",
+      "longitude": "-120.85292"
+    },
+    {
+      "name": "Dawson Creek",
+      "latitude": "55.75984",
+      "longitude": "-120.2403"
+    },
+    {
+      "name": "Tumbler Ridge",
+      "latitude": "55.13027",
+      "longitude": "-120.99415"
+    }
+  ],
+  "America/Iqaluit": [
+    {
+      "name": "Clyde River",
+      "latitude": "70.46916",
+      "longitude": "-68.59143"
+    },
+    {
+      "name": "Iqaluit",
+      "latitude": "63.74697",
+      "longitude": "-68.51727"
+    }
+  ],
+  "America/Creston": [
+    {
+      "name": "Creston",
+      "latitude": "49.09987",
+      "longitude": "-116.50211"
+    }
+  ],
+  "America/Yellowknife": [
+    {
+      "name": "Yellowknife",
+      "latitude": "62.45411",
+      "longitude": "-114.37248"
+    },
+    {
+      "name": "Fort Smith",
+      "latitude": "60.00439",
+      "longitude": "-111.88871"
+    },
+    {
+      "name": "Hay River",
+      "latitude": "60.81555",
+      "longitude": "-115.79993"
+    }
+  ],
+  "America/Fort_Nelson": [
+    {
+      "name": "Fort Nelson",
+      "latitude": "58.80533",
+      "longitude": "-122.7002"
+    }
+  ],
+  "America/Cambridge_Bay": [
+    {
+      "name": "Gjoa Haven",
+      "latitude": "68.62602",
+      "longitude": "-95.87836"
+    },
+    {
+      "name": "Kugluktuk",
+      "latitude": "67.82743",
+      "longitude": "-115.09649"
+    }
+  ],
+  "America/Glace_Bay": [
+    {
+      "name": "Glace Bay",
+      "latitude": "46.19695",
+      "longitude": "-59.95698"
+    },
+    {
+      "name": "Sydney",
+      "latitude": "46.1351",
+      "longitude": "-60.1831"
+    },
+    {
+      "name": "Sydney Mines",
+      "latitude": "46.23669",
+      "longitude": "-60.21767"
+    }
+  ],
+  "America/Whitehorse": [
+    {
+      "name": "Haines Junction",
+      "latitude": "60.75216",
+      "longitude": "-137.51082"
+    },
+    {
+      "name": "Whitehorse",
+      "latitude": "60.71611",
+      "longitude": "-135.05375"
+    }
+  ],
+  "America/Goose_Bay": [
+    {
+      "name": "Happy Valley-Goose Bay",
+      "latitude": "53.3038",
+      "longitude": "-60.32576"
+    },
+    {
+      "name": "Labrador City",
+      "latitude": "52.94626",
+      "longitude": "-66.91137"
+    }
+  ],
+  "America/Inuvik": [
+    {
+      "name": "Inuvik",
+      "latitude": "68.34986",
+      "longitude": "-133.72181"
+    }
+  ],
+  "America/Pangnirtung": [
+    {
+      "name": "Pangnirtung",
+      "latitude": "66.14642",
+      "longitude": "-65.69996"
+    }
+  ],
+  "America/Rankin_Inlet": [
+    {
+      "name": "Rankin Inlet",
+      "latitude": "62.80906",
+      "longitude": "-92.08534"
+    }
+  ],
+  "America/Blanc-Sablon": [
+    {
+      "name": "Saint-Augustin",
+      "latitude": "51.22602",
+      "longitude": "-58.65017"
+    },
+    {
+      "name": "Lévis",
+      "latitude": "46.80326",
+      "longitude": "-71.17793"
+    }
+  ],
+  "America/Swift_Current": [
+    {
+      "name": "Swift Current",
+      "latitude": "50.28337",
+      "longitude": "-107.80135"
+    }
+  ],
+  "America/Thunder_Bay": [
+    {
+      "name": "Thunder Bay",
+      "latitude": "48.38202",
+      "longitude": "-89.25018"
+    }
+  ],
+  "America/Detroit": [
+    {
+      "name": "Buena Vista",
+      "latitude": "43.4203",
+      "longitude": "-83.89858"
+    },
+    {
+      "name": "Big Rapids",
+      "latitude": "43.69808",
+      "longitude": "-85.48366"
+    },
+    {
+      "name": "Birch Run",
+      "latitude": "43.25086",
+      "longitude": "-83.79413"
+    }
+  ],
+  "America/Dawson": [
+    {
+      "name": "Dawson City",
+      "latitude": "64.06013",
+      "longitude": "-139.43328"
+    }
+  ],
+  "Indian/Cocos": [
+    {
+      "name": "West Island",
+      "latitude": "-12.15681",
+      "longitude": "96.82251"
+    }
+  ],
+  "Africa/Lubumbashi": [
+    {
+      "name": "Kambove",
+      "latitude": "-10.87352",
+      "longitude": "26.59746"
+    },
+    {
+      "name": "Kasongo",
+      "latitude": "-4.42741",
+      "longitude": "26.66656"
+    },
+    {
+      "name": "Kabalo",
+      "latitude": "-6.05255",
+      "longitude": "26.9143"
+    }
+  ],
+  "Africa/Kinshasa": [
+    {
+      "name": "Kinshasa",
+      "latitude": "-4.32758",
+      "longitude": "15.31357"
+    },
+    {
+      "name": "Kasongo-Lunda",
+      "latitude": "-6.47833",
+      "longitude": "16.81735"
+    },
+    {
+      "name": "Mbanza-Ngungu",
+      "latitude": "-5.25837",
+      "longitude": "14.85838"
+    }
+  ],
+  "Africa/Bangui": [
+    {
+      "name": "Mbaïki",
+      "latitude": "3.86781",
+      "longitude": "17.98923"
+    },
+    {
+      "name": "Birao",
+      "latitude": "10.28488",
+      "longitude": "22.78818"
+    },
+    {
+      "name": "Mobaye",
+      "latitude": "4.31902",
+      "longitude": "21.17861"
+    }
+  ],
+  "Africa/Brazzaville": [
+    {
+      "name": "Dolisie",
+      "latitude": "-4.19834",
+      "longitude": "12.66664"
+    },
+    {
+      "name": "Sibiti",
+      "latitude": "-3.68192",
+      "longitude": "13.34985"
+    },
+    {
+      "name": "Kayes",
+      "latitude": "-4.20493",
+      "longitude": "13.28608"
+    }
+  ],
+  "Europe/Zurich": [
+    {
+      "name": "Riedholz",
+      "latitude": "47.23158",
+      "longitude": "7.56829"
+    },
+    {
+      "name": "Wohlen",
+      "latitude": "47.35066",
+      "longitude": "8.27517"
+    },
+    {
+      "name": "Saint-Livres",
+      "latitude": "46.50794",
+      "longitude": "6.38753"
+    }
+  ],
+  "Europe/Rome": [
+    {
+      "name": "Concordia sulla Secchia",
+      "latitude": "44.91258",
+      "longitude": "10.98802"
+    },
+    {
+      "name": "Chef-Lieu",
+      "latitude": "45.75091",
+      "longitude": "7.35372"
+    },
+    {
+      "name": "Breguzzo",
+      "latitude": "46.00679",
+      "longitude": "10.69761"
+    }
+  ],
+  "Africa/Abidjan": [
+    {
+      "name": "Toumodi",
+      "latitude": "6.55799",
+      "longitude": "-5.01769"
+    },
+    {
+      "name": "Sakassou",
+      "latitude": "7.45462",
+      "longitude": "-5.29263"
+    },
+    {
+      "name": "Toulépleu",
+      "latitude": "6.57974",
+      "longitude": "-8.41091"
+    }
+  ],
+  "Pacific/Rarotonga": [
+    {
+      "name": "Avarua",
+      "latitude": "-21.2075",
+      "longitude": "-159.77545"
+    }
+  ],
+  "America/Santiago": [
+    {
+      "name": "Santa Cruz",
+      "latitude": "-34.63881",
+      "longitude": "-71.36576"
+    },
+    {
+      "name": "Coihueco",
+      "latitude": "-36.62785",
+      "longitude": "-71.83068"
+    },
+    {
+      "name": "Coyhaique",
+      "latitude": "-45.57524",
+      "longitude": "-72.06619"
+    }
+  ],
+  "America/Punta_Arenas": [
+    {
+      "name": "Porvenir",
+      "latitude": "-53.296",
+      "longitude": "-70.36629"
+    },
+    {
+      "name": "Punta Arenas",
+      "latitude": "-53.15483",
+      "longitude": "-70.91129"
+    },
+    {
+      "name": "Puerto Williams",
+      "latitude": "-54.93355",
+      "longitude": "-67.60963"
+    }
+  ],
+  "Pacific/Easter": [
+    {
+      "name": "Hanga Roa",
+      "latitude": "-27.15474",
+      "longitude": "-109.43241"
+    }
+  ],
+  "Africa/Douala": [
+    {
+      "name": "Bansoa",
+      "latitude": "5.44836",
+      "longitude": "10.31355"
+    },
+    {
+      "name": "Kumba",
+      "latitude": "4.6363",
+      "longitude": "9.4469"
+    },
+    {
+      "name": "Ébolowa",
+      "latitude": "2.9",
+      "longitude": "11.15"
+    }
+  ],
+  "Asia/Urumqi": [
+    {
+      "name": "Renwu",
+      "latitude": "29.605",
+      "longitude": "89.005"
+    },
+    {
+      "name": "Hexi",
+      "latitude": "21.68651",
+      "longitude": "110.63417"
+    },
+    {
+      "name": "Beijinglu",
+      "latitude": "43.83445",
+      "longitude": "87.57652"
+    }
+  ],
+  "Asia/Shanghai": [
+    {
+      "name": "Hexiangqiao",
+      "latitude": "27.22028",
+      "longitude": "110.96333"
+    },
+    {
+      "name": "Yopurga",
+      "latitude": "39.23938",
+      "longitude": "76.76432"
+    },
+    {
+      "name": "Zuitou",
+      "latitude": "34.06219",
+      "longitude": "107.31266"
+    }
+  ],
+  "America/Bogota": [
+    {
+      "name": "Neiva",
+      "latitude": "2.9273",
+      "longitude": "-75.28189"
+    },
+    {
+      "name": "Tunja",
+      "latitude": "5.53528",
+      "longitude": "-73.36778"
+    },
+    {
+      "name": "Funes",
+      "latitude": "1.00075",
+      "longitude": "-77.44918"
+    }
+  ],
+  "America/Costa_Rica": [
+    {
+      "name": "Cartago",
+      "latitude": "9.86444",
+      "longitude": "-83.91944"
+    },
+    {
+      "name": "Zarcero",
+      "latitude": "10.18561",
+      "longitude": "-84.39076"
+    },
+    {
+      "name": "Alajuelita",
+      "latitude": "9.90163",
+      "longitude": "-84.10042"
+    }
+  ],
+  "America/Havana": [
+    {
+      "name": "Aguada de Pasajeros",
+      "latitude": "22.3852",
+      "longitude": "-80.84792"
+    },
+    {
+      "name": "Chambas",
+      "latitude": "22.19534",
+      "longitude": "-78.9123"
+    },
+    {
+      "name": "Moa",
+      "latitude": "20.65776",
+      "longitude": "-74.95075"
+    }
+  ],
+  "Atlantic/Cape_Verde": [
+    {
+      "name": "Vila de Sal Rei",
+      "latitude": "16.18333",
+      "longitude": "-22.91667"
+    },
+    {
+      "name": "Mindelo",
+      "latitude": "16.89014",
+      "longitude": "-24.98042"
+    },
+    {
+      "name": "Vila do Maio",
+      "latitude": "15.13823",
+      "longitude": "-23.21158"
+    }
+  ],
+  "America/Curacao": [
+    {
+      "name": "Dorp Soto",
+      "latitude": "12.27749",
+      "longitude": "-69.1125"
+    },
+    {
+      "name": "Willemstad",
+      "latitude": "12.1084",
+      "longitude": "-68.93354"
+    },
+    {
+      "name": "Barber",
+      "latitude": "12.29014",
+      "longitude": "-69.07389"
+    }
+  ],
+  "Indian/Christmas": [
+    {
+      "name": "Flying Fish Cove",
+      "latitude": "-10.42172",
+      "longitude": "105.67912"
+    }
+  ],
+  "Asia/Famagusta": [
+    {
+      "name": "Acherítou",
+      "latitude": "35.10022",
+      "longitude": "33.86155"
+    },
+    {
+      "name": "Kyrenia",
+      "latitude": "35.33634",
+      "longitude": "33.31729"
+    },
+    {
+      "name": "Lefkónoiko",
+      "latitude": "35.2598",
+      "longitude": "33.73189"
+    }
+  ],
+  "Asia/Nicosia": [
+    {
+      "name": "Tséri",
+      "latitude": "35.07307",
+      "longitude": "33.32344"
+    },
+    {
+      "name": "Aradíppou",
+      "latitude": "34.95151",
+      "longitude": "33.59199"
+    },
+    {
+      "name": "Émpa",
+      "latitude": "34.80765",
+      "longitude": "32.42402"
+    }
+  ],
+  "Europe/Prague": [
+    {
+      "name": "Zlonice",
+      "latitude": "50.2875",
+      "longitude": "14.09214"
+    },
+    {
+      "name": "Stará Huť",
+      "latitude": "49.78225",
+      "longitude": "14.19735"
+    },
+    {
+      "name": "Šitbořice",
+      "latitude": "49.01433",
+      "longitude": "16.77975"
+    }
+  ],
+  "Europe/Busingen": [
+    {
+      "name": "Büsingen",
+      "latitude": "47.69638",
+      "longitude": "8.68759"
+    }
+  ],
+  "Africa/Djibouti": [
+    {
+      "name": "Dorra",
+      "latitude": "12.15028",
+      "longitude": "42.47624"
+    },
+    {
+      "name": "Tadjourah",
+      "latitude": "11.78778",
+      "longitude": "42.88222"
+    },
+    {
+      "name": "Obock",
+      "latitude": "11.96693",
+      "longitude": "43.28835"
+    }
+  ],
+  "Europe/Copenhagen": [
+    {
+      "name": "Sindal",
+      "latitude": "57.47117",
+      "longitude": "10.20312"
+    },
+    {
+      "name": "Løjt Kirkeby",
+      "latitude": "55.08959",
+      "longitude": "9.46084"
+    },
+    {
+      "name": "Kås",
+      "latitude": "57.19774",
+      "longitude": "9.67173"
+    }
+  ],
+  "America/Dominica": [
+    {
+      "name": "Portsmouth",
+      "latitude": "15.58333",
+      "longitude": "-61.46667"
+    },
+    {
+      "name": "Roseau",
+      "latitude": "15.30174",
+      "longitude": "-61.38808"
+    },
+    {
+      "name": "Castle Bruce",
+      "latitude": "15.44397",
+      "longitude": "-61.25723"
+    }
+  ],
+  "America/Santo_Domingo": [
+    {
+      "name": "Cachón",
+      "latitude": "18.24833",
+      "longitude": "-71.18912"
+    },
+    {
+      "name": "Laguna Salada",
+      "latitude": "19.65043",
+      "longitude": "-71.08429"
+    },
+    {
+      "name": "Neiba",
+      "latitude": "18.48137",
+      "longitude": "-71.41965"
+    }
+  ],
+  "Africa/Algiers": [
+    {
+      "name": "Chlef",
+      "latitude": "36.16525",
+      "longitude": "1.33452"
+    },
+    {
+      "name": "Hassi Messaoud",
+      "latitude": "31.68041",
+      "longitude": "6.07286"
+    },
+    {
+      "name": "Relizane",
+      "latitude": "35.73734",
+      "longitude": "0.55599"
+    }
+  ],
+  "America/Guayaquil": [
+    {
+      "name": "Guano",
+      "latitude": "-1.60789",
+      "longitude": "-78.63105"
+    },
+    {
+      "name": "Zamora",
+      "latitude": "-4.06685",
+      "longitude": "-78.95488"
+    },
+    {
+      "name": "Santa Lucía",
+      "latitude": "-2.18333",
+      "longitude": "-80"
+    }
+  ],
+  "Pacific/Galapagos": [
+    {
+      "name": "Puerto Ayora",
+      "latitude": "-0.74018",
+      "longitude": "-90.3138"
+    },
+    {
+      "name": "Puerto Baquerizo Moreno",
+      "latitude": "-0.90172",
+      "longitude": "-89.61021"
+    },
+    {
+      "name": "Puerto Villamil",
+      "latitude": "-0.95542",
+      "longitude": "-90.96654"
+    }
+  ],
+  "Europe/Tallinn": [
+    {
+      "name": "Tamsalu",
+      "latitude": "59.15861",
+      "longitude": "26.11528"
+    },
+    {
+      "name": "Taebla",
+      "latitude": "58.95389",
+      "longitude": "23.75222"
+    },
+    {
+      "name": "Märjamaa",
+      "latitude": "58.90389",
+      "longitude": "24.43056"
+    }
+  ],
+  "Africa/Cairo": [
+    {
+      "name": "Al Bawīţī",
+      "latitude": "28.34919",
+      "longitude": "28.86591"
+    },
+    {
+      "name": "Manfalūţ",
+      "latitude": "27.3104",
+      "longitude": "30.97004"
+    },
+    {
+      "name": "Al Fayyūm",
+      "latitude": "29.30995",
+      "longitude": "30.8418"
+    }
+  ],
+  "Africa/El_Aaiun": [
+    {
+      "name": "Dakhla",
+      "latitude": "23.68477",
+      "longitude": "-15.95798"
+    },
+    {
+      "name": "Laayoune Plage",
+      "latitude": "27.09611",
+      "longitude": "-13.41583"
+    },
+    {
+      "name": "Imlili",
+      "latitude": "22.6558",
+      "longitude": "-15.60719"
+    }
+  ],
+  "Africa/Casablanca": [
+    {
+      "name": "Tabia",
+      "latitude": "32.03009",
+      "longitude": "-6.79985"
+    },
+    {
+      "name": "Tazarine",
+      "latitude": "33.88307",
+      "longitude": "-4.1862"
+    },
+    {
+      "name": "Oujda-Angad",
+      "latitude": "34.68139",
+      "longitude": "-1.90858"
+    }
+  ],
+  "Africa/Asmara": [
+    {
+      "name": "Teseney",
+      "latitude": "15.11",
+      "longitude": "36.6575"
+    },
+    {
+      "name": "Mendefera",
+      "latitude": "14.88722",
+      "longitude": "38.81528"
+    },
+    {
+      "name": "Dek’emhāre",
+      "latitude": "15.07",
+      "longitude": "39.0475"
+    }
+  ],
+  "Europe/Madrid": [
+    {
+      "name": "Urueñas",
+      "latitude": "41.35589",
+      "longitude": "-3.77391"
+    },
+    {
+      "name": "Elantxobe",
+      "latitude": "43.40243",
+      "longitude": "-2.63912"
+    },
+    {
+      "name": "Belver de los Montes",
+      "latitude": "41.72284",
+      "longitude": "-5.45182"
+    }
+  ],
+  "Atlantic/Canary": [
+    {
+      "name": "Firgas",
+      "latitude": "28.10711",
+      "longitude": "-15.56299"
+    },
+    {
+      "name": "Mazo",
+      "latitude": "28.60906",
+      "longitude": "-17.77801"
+    },
+    {
+      "name": "Agulo",
+      "latitude": "28.18778",
+      "longitude": "-17.19678"
+    }
+  ],
+  "Europe/Lisbon": [
+    {
+      "name": "Porto Salvo",
+      "latitude": "38.72293",
+      "longitude": "-9.30473"
+    },
+    {
+      "name": "Sande",
+      "latitude": "41.7019",
+      "longitude": "-8.39246"
+    },
+    {
+      "name": "Vila Nova da Telha",
+      "latitude": "41.0717",
+      "longitude": "-8.64146"
+    }
+  ],
+  "Africa/Ceuta": [
+    {
+      "name": "Melilla",
+      "latitude": "35.29369",
+      "longitude": "-2.93833"
+    },
+    {
+      "name": "Ceuta",
+      "latitude": "35.88933",
+      "longitude": "-5.31979"
+    }
+  ],
+  "Africa/Addis_Ababa": [
+    {
+      "name": "Bedēsa",
+      "latitude": "8.9",
+      "longitude": "40.78333"
+    },
+    {
+      "name": "Lalībela",
+      "latitude": "12.03219",
+      "longitude": "39.04756"
+    },
+    {
+      "name": "Debark’",
+      "latitude": "13.15611",
+      "longitude": "37.89806"
+    }
+  ],
+  "Europe/Helsinki": [
+    {
+      "name": "Siuntio",
+      "latitude": "60.13862",
+      "longitude": "24.22715"
+    },
+    {
+      "name": "Nurmijärvi",
+      "latitude": "60.46407",
+      "longitude": "24.8073"
+    },
+    {
+      "name": "Karvia",
+      "latitude": "62.13333",
+      "longitude": "22.56667"
+    }
+  ],
+  "Pacific/Fiji": [
+    {
+      "name": "Ba",
+      "latitude": "-17.5343",
+      "longitude": "177.67407"
+    },
+    {
+      "name": "Labasa",
+      "latitude": "-16.4332",
+      "longitude": "179.36451"
+    },
+    {
+      "name": "Levuka",
+      "latitude": "-18.06667",
+      "longitude": "179.31667"
+    }
+  ],
+  "Atlantic/Stanley": [
+    {
+      "name": "Stanley",
+      "latitude": "-51.69382",
+      "longitude": "-57.85701"
+    }
+  ],
+  "Pacific/Chuuk": [
+    {
+      "name": "Lukunor",
+      "latitude": "5.507",
+      "longitude": "153.8205"
+    },
+    {
+      "name": "Ifalik",
+      "latitude": "7.25",
+      "longitude": "144.4445"
+    },
+    {
+      "name": "Nema",
+      "latitude": "6.98922",
+      "longitude": "152.57377"
+    }
+  ],
+  "Pacific/Kosrae": [
+    {
+      "name": "Utwe",
+      "latitude": "5.27486",
+      "longitude": "162.97656"
+    },
+    {
+      "name": "Tofol",
+      "latitude": "5.32479",
+      "longitude": "163.00781"
+    },
+    {
+      "name": "Malem",
+      "latitude": "5.28599",
+      "longitude": "163.02609"
+    }
+  ],
+  "Pacific/Pohnpei": [
+    {
+      "name": "Kapingamarangi",
+      "latitude": "1.07861",
+      "longitude": "154.80752"
+    },
+    {
+      "name": "Kolonia Town",
+      "latitude": "6.964",
+      "longitude": "158.206"
+    },
+    {
+      "name": "Madolenihm Municipality Government",
+      "latitude": "6.83493",
+      "longitude": "158.2987"
+    }
+  ],
+  "Atlantic/Faroe": [
+    {
+      "name": "Fuglafjørður",
+      "latitude": "62.24398",
+      "longitude": "-6.81395"
+    },
+    {
+      "name": "Klaksvík",
+      "latitude": "62.22655",
+      "longitude": "-6.58901"
+    },
+    {
+      "name": "Vestmanna",
+      "latitude": "62.15354",
+      "longitude": "-7.17291"
+    }
+  ],
+  "Europe/Paris": [
+    {
+      "name": "Wervicq-Sud",
+      "latitude": "50.7745",
+      "longitude": "3.04207"
+    },
+    {
+      "name": "Montrem",
+      "latitude": "45.13417",
+      "longitude": "0.59029"
+    },
+    {
+      "name": "Millas",
+      "latitude": "42.69203",
+      "longitude": "2.69508"
+    }
+  ],
+  "Africa/Libreville": [
+    {
+      "name": "Makokou",
+      "latitude": "0.57381",
+      "longitude": "12.86419"
+    },
+    {
+      "name": "Port-Gentil",
+      "latitude": "-0.71933",
+      "longitude": "8.78151"
+    },
+    {
+      "name": "Lambaréné",
+      "latitude": "-0.7001",
+      "longitude": "10.24055"
+    }
+  ],
+  "Europe/London": [
+    {
+      "name": "Dukinfield",
+      "latitude": "53.47497",
+      "longitude": "-2.08809"
+    },
+    {
+      "name": "Newborough",
+      "latitude": "52.6389",
+      "longitude": "-0.22333"
+    },
+    {
+      "name": "Great Horwood",
+      "latitude": "51.97351",
+      "longitude": "-0.88088"
+    }
+  ],
+  "America/Grenada": [
+    {
+      "name": "Grenville",
+      "latitude": "12.12278",
+      "longitude": "-61.62498"
+    },
+    {
+      "name": "Hillsborough",
+      "latitude": "12.48292",
+      "longitude": "-61.45597"
+    },
+    {
+      "name": "Sauteurs",
+      "latitude": "12.21833",
+      "longitude": "-61.63917"
+    }
+  ],
+  "Asia/Tbilisi": [
+    {
+      "name": "Tqibuli",
+      "latitude": "42.35121",
+      "longitude": "42.99874"
+    },
+    {
+      "name": "Gurjaani",
+      "latitude": "41.74292",
+      "longitude": "45.80111"
+    },
+    {
+      "name": "Didi Lilo",
+      "latitude": "41.73611",
+      "longitude": "44.96472"
+    }
+  ],
+  "America/Cayenne": [
+    {
+      "name": "Saint-Laurent-du-Maroni",
+      "latitude": "5.50153",
+      "longitude": "-54.02916"
+    },
+    {
+      "name": "Iracoubo",
+      "latitude": "5.47952",
+      "longitude": "-53.20524"
+    },
+    {
+      "name": "Régina",
+      "latitude": "4.313",
+      "longitude": "-52.13083"
+    }
+  ],
+  "Europe/Guernsey": [
+    {
+      "name": "St Anne",
+      "latitude": "49.71549",
+      "longitude": "-2.20757"
+    },
+    {
+      "name": "Saint Peter Port",
+      "latitude": "49.45981",
+      "longitude": "-2.53527"
+    },
+    {
+      "name": "Saint Saviour",
+      "latitude": "49.45694",
+      "longitude": "-2.63583"
+    }
+  ],
+  "Africa/Accra": [
+    {
+      "name": "Winneba",
+      "latitude": "5.35113",
+      "longitude": "-0.62313"
+    },
+    {
+      "name": "Mamponteng",
+      "latitude": "6.73333",
+      "longitude": "-1.55"
+    },
+    {
+      "name": "Dome",
+      "latitude": "5.65003",
+      "longitude": "-0.2361"
+    }
+  ],
+  "Europe/Gibraltar": [
+    {
+      "name": "Gibraltar",
+      "latitude": "36.14474",
+      "longitude": "-5.35257"
+    }
+  ],
+  "America/Godthab": [
+    {
+      "name": "Upernavik",
+      "latitude": "72.7872",
+      "longitude": "-56.14436"
+    },
+    {
+      "name": "Qasigiannguit",
+      "latitude": "68.81926",
+      "longitude": "-51.19221"
+    },
+    {
+      "name": "Qaqortoq",
+      "latitude": "60.71839",
+      "longitude": "-46.03561"
+    }
+  ],
+  "Africa/Banjul": [
+    {
+      "name": "Kass Wollof",
+      "latitude": "13.78333",
+      "longitude": "-14.93333"
+    },
+    {
+      "name": "Banjul",
+      "latitude": "13.45274",
+      "longitude": "-16.57803"
+    },
+    {
+      "name": "No Kunda",
+      "latitude": "13.56667",
+      "longitude": "-15.83333"
+    }
+  ],
+  "Africa/Conakry": [
+    {
+      "name": "Boffa",
+      "latitude": "10.16667",
+      "longitude": "-14.03333"
+    },
+    {
+      "name": "Koubia",
+      "latitude": "11.58632",
+      "longitude": "-11.89485"
+    },
+    {
+      "name": "Kérouané",
+      "latitude": "9.26667",
+      "longitude": "-9.01667"
+    }
+  ],
+  "America/Guadeloupe": [
+    {
+      "name": "Saint-François",
+      "latitude": "16.25236",
+      "longitude": "-61.27332"
+    },
+    {
+      "name": "Vieux-Habitants",
+      "latitude": "16.05866",
+      "longitude": "-61.76667"
+    },
+    {
+      "name": "Petit-Canal",
+      "latitude": "16.37913",
+      "longitude": "-61.48716"
+    }
+  ],
+  "Africa/Malabo": [
+    {
+      "name": "Luba",
+      "latitude": "3.45683",
+      "longitude": "8.55465"
+    },
+    {
+      "name": "Santiago de Baney",
+      "latitude": "3.6992",
+      "longitude": "8.9084"
+    },
+    {
+      "name": "Evinayong",
+      "latitude": "1.43677",
+      "longitude": "10.55124"
+    }
+  ],
+  "Europe/Athens": [
+    {
+      "name": "Vraná",
+      "latitude": "38.12497",
+      "longitude": "23.95198"
+    },
+    {
+      "name": "Terpní",
+      "latitude": "40.91643",
+      "longitude": "23.48137"
+    },
+    {
+      "name": "Vasilikón",
+      "latitude": "38.42586",
+      "longitude": "23.67189"
+    }
+  ],
+  "Atlantic/South_Georgia": [
+    {
+      "name": "Grytviken",
+      "latitude": "-54.28111",
+      "longitude": "-36.5092"
+    }
+  ],
+  "America/Guatemala": [
+    {
+      "name": "Joyabaj",
+      "latitude": "14.995",
+      "longitude": "-90.80611"
+    },
+    {
+      "name": "Tiquisate",
+      "latitude": "14.28356",
+      "longitude": "-91.36063"
+    },
+    {
+      "name": "Santa Rosa de Lima",
+      "latitude": "14.38806",
+      "longitude": "-90.29556"
+    }
+  ],
+  "Pacific/Guam": [
+    {
+      "name": "Agat Village",
+      "latitude": "13.38855",
+      "longitude": "144.65852"
+    },
+    {
+      "name": "Hagåtña",
+      "latitude": "13.47567",
+      "longitude": "144.74886"
+    },
+    {
+      "name": "Chalan Pago-Ordot Village",
+      "latitude": "13.44741",
+      "longitude": "144.75902"
+    }
+  ],
+  "Africa/Bissau": [
+    {
+      "name": "Bafatá",
+      "latitude": "12.16583",
+      "longitude": "-14.66167"
+    },
+    {
+      "name": "Bissorã",
+      "latitude": "12.22306",
+      "longitude": "-15.4475"
+    },
+    {
+      "name": "Pitche",
+      "latitude": "12.32344",
+      "longitude": "-13.95343"
+    }
+  ],
+  "America/Guyana": [
+    {
+      "name": "Skeldon",
+      "latitude": "5.88333",
+      "longitude": "-57.13333"
+    },
+    {
+      "name": "Vreed-en-Hoop",
+      "latitude": "6.80927",
+      "longitude": "-58.19798"
+    },
+    {
+      "name": "Rosignol",
+      "latitude": "6.27095",
+      "longitude": "-57.53697"
+    }
+  ],
+  "Asia/Hong_Kong": [
+    {
+      "name": "Wan Chai",
+      "latitude": "22.28142",
+      "longitude": "114.17258"
+    },
+    {
+      "name": "Yung Shue Wan",
+      "latitude": "22.22623",
+      "longitude": "114.11241"
+    },
+    {
+      "name": "Tai O",
+      "latitude": "22.25515",
+      "longitude": "113.86309"
+    }
+  ],
+  "America/Tegucigalpa": [
+    {
+      "name": "Quebradas",
+      "latitude": "14.5",
+      "longitude": "-87.35"
+    },
+    {
+      "name": "El Mochito",
+      "latitude": "14.86667",
+      "longitude": "-88.08333"
+    },
+    {
+      "name": "Yoro",
+      "latitude": "15.1375",
+      "longitude": "-87.12778"
+    }
+  ],
+  "Europe/Zagreb": [
+    {
+      "name": "Vodnjan",
+      "latitude": "44.95944",
+      "longitude": "13.85167"
+    },
+    {
+      "name": "Kaštelir",
+      "latitude": "45.30333",
+      "longitude": "13.68528"
+    },
+    {
+      "name": "Čačinci",
+      "latitude": "45.60389",
+      "longitude": "17.87028"
+    }
+  ],
+  "America/Port-au-Prince": [
+    {
+      "name": "Léogâne",
+      "latitude": "18.5111",
+      "longitude": "-72.63343"
+    },
+    {
+      "name": "Miragoâne",
+      "latitude": "18.44232",
+      "longitude": "-73.08758"
+    },
+    {
+      "name": "Chantal",
+      "latitude": "18.20169",
+      "longitude": "-73.88957"
+    }
+  ],
+  "Europe/Budapest": [
+    {
+      "name": "Ecser",
+      "latitude": "47.44389",
+      "longitude": "19.3245"
+    },
+    {
+      "name": "Újfehértó",
+      "latitude": "47.8",
+      "longitude": "21.68333"
+    },
+    {
+      "name": "Hajdúsámson",
+      "latitude": "47.6",
+      "longitude": "21.76667"
+    }
+  ],
+  "Asia/Jakarta": [
+    {
+      "name": "Rancah",
+      "latitude": "-7.1969",
+      "longitude": "108.5041"
+    },
+    {
+      "name": "Karanganom",
+      "latitude": "-7.64889",
+      "longitude": "110.625"
+    },
+    {
+      "name": "Taraju",
+      "latitude": "-7.458",
+      "longitude": "107.9812"
+    }
+  ],
+  "Asia/Makassar": [
+    {
+      "name": "Sakra",
+      "latitude": "-8.6831",
+      "longitude": "116.462"
+    },
+    {
+      "name": "Sukasada",
+      "latitude": "-8.1395",
+      "longitude": "115.1031"
+    },
+    {
+      "name": "Lolayan",
+      "latitude": "0.646",
+      "longitude": "124.3074"
+    }
+  ],
+  "Asia/Jayapura": [
+    {
+      "name": "Langgur",
+      "latitude": "-5.66689",
+      "longitude": "132.73762"
+    },
+    {
+      "name": "Waigama",
+      "latitude": "-1.8364",
+      "longitude": "129.8316"
+    },
+    {
+      "name": "Bilogai",
+      "latitude": "-3.7181",
+      "longitude": "136.6683"
+    }
+  ],
+  "Asia/Pontianak": [
+    {
+      "name": "Buntok",
+      "latitude": "-1.72139",
+      "longitude": "114.8397"
+    },
+    {
+      "name": "Belakangpadang",
+      "latitude": "1.14964",
+      "longitude": "103.89164"
+    },
+    {
+      "name": "Batuampar",
+      "latitude": "-0.7385",
+      "longitude": "109.52454"
+    }
+  ],
+  "Europe/Dublin": [
+    {
+      "name": "Ballyshannon",
+      "latitude": "54.5",
+      "longitude": "-8.18333"
+    },
+    {
+      "name": "Loughrea",
+      "latitude": "53.19694",
+      "longitude": "-8.56694"
+    },
+    {
+      "name": "Crosshaven",
+      "latitude": "51.79833",
+      "longitude": "-8.30083"
+    }
+  ],
+  "Asia/Jerusalem": [
+    {
+      "name": "Ramla",
+      "latitude": "31.92923",
+      "longitude": "34.86563"
+    },
+    {
+      "name": "Timrat",
+      "latitude": "32.70302",
+      "longitude": "35.22359"
+    },
+    {
+      "name": "Ofaqim",
+      "latitude": "31.3141",
+      "longitude": "34.62025"
+    }
+  ],
+  "Asia/Hebron": [
+    {
+      "name": "Shuqbā",
+      "latitude": "31.98695",
+      "longitude": "35.04012"
+    },
+    {
+      "name": "Khallat al Mayyah",
+      "latitude": "31.44222",
+      "longitude": "35.14286"
+    },
+    {
+      "name": "Bayt Duqqū",
+      "latitude": "31.85911",
+      "longitude": "35.13124"
+    }
+  ],
+  "Europe/Isle_of_Man": [
+    {
+      "name": "Ballasalla",
+      "latitude": "54.0959",
+      "longitude": "-4.62962"
+    },
+    {
+      "name": "Kirk Braddan",
+      "latitude": "54.16667",
+      "longitude": "-4.51667"
+    },
+    {
+      "name": "Ballabeg",
+      "latitude": "54.1",
+      "longitude": "-4.68333"
+    }
+  ],
+  "Asia/Kolkata": [
+    {
+      "name": "Budhlāda",
+      "latitude": "29.92799",
+      "longitude": "75.56205"
+    },
+    {
+      "name": "Bhānder",
+      "latitude": "25.73581",
+      "longitude": "78.74555"
+    },
+    {
+      "name": "Tumsar",
+      "latitude": "21.38333",
+      "longitude": "79.73333"
+    }
+  ],
+  "Asia/Kathmandu": [
+    {
+      "name": "Nepalgunj",
+      "latitude": "28.05",
+      "longitude": "81.61667"
+    },
+    {
+      "name": "Dharān",
+      "latitude": "26.81436",
+      "longitude": "87.27972"
+    },
+    {
+      "name": "Inaruwa",
+      "latitude": "26.60675",
+      "longitude": "87.1478"
+    }
+  ],
+  "Asia/Yangon": [
+    {
+      "name": "Sagaing",
+      "latitude": "21.8787",
+      "longitude": "95.97965"
+    },
+    {
+      "name": "Taunggyi",
+      "latitude": "20.78919",
+      "longitude": "97.03776"
+    },
+    {
+      "name": "Twante",
+      "latitude": "16.71047",
+      "longitude": "95.92866"
+    }
+  ],
+  "Asia/Baghdad": [
+    {
+      "name": "Dukan",
+      "latitude": "35.92922",
+      "longitude": "44.96282"
+    },
+    {
+      "name": "Al Maḩmūdīyah",
+      "latitude": "33.06221",
+      "longitude": "44.36564"
+    },
+    {
+      "name": "‘Afak",
+      "latitude": "32.0643",
+      "longitude": "45.24743"
+    }
+  ],
+  "Asia/Tehran": [
+    {
+      "name": "Mashhad",
+      "latitude": "36.31559",
+      "longitude": "59.56796"
+    },
+    {
+      "name": "Taft",
+      "latitude": "31.76056",
+      "longitude": "54.22303"
+    },
+    {
+      "name": "Orūmīyeh",
+      "latitude": "37.55274",
+      "longitude": "45.07605"
+    }
+  ],
+  "Atlantic/Reykjavik": [
+    {
+      "name": "Seltjarnarnes",
+      "latitude": "64.15309",
+      "longitude": "-21.99499"
+    },
+    {
+      "name": "Keflavík",
+      "latitude": "64.00492",
+      "longitude": "-22.56242"
+    },
+    {
+      "name": "Ísafjörður",
+      "latitude": "66.07475",
+      "longitude": "-23.13498"
+    }
+  ],
+  "Europe/Jersey": [
+    {
+      "name": "Saint Helier",
+      "latitude": "49.18804",
+      "longitude": "-2.10491"
+    },
+    {
+      "name": "Le Hocq",
+      "latitude": "49.16823",
+      "longitude": "-2.06178"
+    }
+  ],
+  "America/Jamaica": [
+    {
+      "name": "Bull Savanna",
+      "latitude": "17.88678",
+      "longitude": "-77.59022"
+    },
+    {
+      "name": "Porus",
+      "latitude": "18.03535",
+      "longitude": "-77.41166"
+    },
+    {
+      "name": "Lacovia",
+      "latitude": "18.0721",
+      "longitude": "-77.75059"
+    }
+  ],
+  "Asia/Amman": [
+    {
+      "name": "Dayr ‘Allā",
+      "latitude": "32.19571",
+      "longitude": "35.62161"
+    },
+    {
+      "name": "Amman",
+      "latitude": "31.95522",
+      "longitude": "35.94503"
+    },
+    {
+      "name": "Yarqā",
+      "latitude": "31.97583",
+      "longitude": "35.69638"
+    }
+  ],
+  "Asia/Tokyo": [
+    {
+      "name": "Gotō",
+      "latitude": "32.68418",
+      "longitude": "128.8068"
+    },
+    {
+      "name": "Yamaguchi",
+      "latitude": "34.18333",
+      "longitude": "131.46667"
+    },
+    {
+      "name": "Nago",
+      "latitude": "26.61502",
+      "longitude": "127.98543"
+    }
+  ],
+  "Africa/Nairobi": [
+    {
+      "name": "Kakamega",
+      "latitude": "0.28422",
+      "longitude": "34.75229"
+    },
+    {
+      "name": "Lamu",
+      "latitude": "-2.27169",
+      "longitude": "40.90201"
+    },
+    {
+      "name": "Kericho",
+      "latitude": "-0.36774",
+      "longitude": "35.28314"
+    }
+  ],
+  "Asia/Bishkek": [
+    {
+      "name": "Kyrgyz-Kyshtak",
+      "latitude": "40.31055",
+      "longitude": "71.34966"
+    },
+    {
+      "name": "Sokuluk",
+      "latitude": "42.85401",
+      "longitude": "74.30257"
+    },
+    {
+      "name": "Aravan",
+      "latitude": "40.51608",
+      "longitude": "72.4996"
+    }
+  ],
+  "Asia/Dushanbe": [
+    {
+      "name": "Panj",
+      "latitude": "37.23634",
+      "longitude": "69.09911"
+    },
+    {
+      "name": "Ayní",
+      "latitude": "39.39406",
+      "longitude": "68.53766"
+    },
+    {
+      "name": "Isfara",
+      "latitude": "40.12649",
+      "longitude": "70.62526"
+    }
+  ],
+  "Asia/Phnom_Penh": [
+    {
+      "name": "Banteay Meas",
+      "latitude": "10.66781",
+      "longitude": "104.56026"
+    },
+    {
+      "name": "Kampong Chhnang",
+      "latitude": "12.25",
+      "longitude": "104.66667"
+    },
+    {
+      "name": "Ta Loas",
+      "latitude": "12.8079",
+      "longitude": "103.46023"
+    }
+  ],
+  "Pacific/Tarawa": [
+    {
+      "name": "Makin Village",
+      "latitude": "3.3644",
+      "longitude": "172.98352"
+    },
+    {
+      "name": "Bairiki Village",
+      "latitude": "1.32924",
+      "longitude": "172.97522"
+    },
+    {
+      "name": "Temaiku Village",
+      "latitude": "1.36292",
+      "longitude": "173.16226"
+    }
+  ],
+  "Pacific/Kiritimati": [
+    {
+      "name": "Tabwakea Village",
+      "latitude": "2.01643",
+      "longitude": "-157.48773"
+    },
+    {
+      "name": "London Village",
+      "latitude": "1.98487",
+      "longitude": "-157.47502"
+    },
+    {
+      "name": "Banana Village",
+      "latitude": "1.98329",
+      "longitude": "-157.36526"
+    }
+  ],
+  "Indian/Comoro": [
+    {
+      "name": "Mjamaoué",
+      "latitude": "-12.19361",
+      "longitude": "44.31"
+    },
+    {
+      "name": "Mavingouni",
+      "latitude": "-11.71639",
+      "longitude": "43.2525"
+    },
+    {
+      "name": "Maraharé",
+      "latitude": "-12.23083",
+      "longitude": "44.31333"
+    }
+  ],
+  "America/St_Kitts": [
+    {
+      "name": "Saint Paul’s",
+      "latitude": "17.40605",
+      "longitude": "-62.83562"
+    },
+    {
+      "name": "Sandy Point Town",
+      "latitude": "17.35908",
+      "longitude": "-62.84858"
+    },
+    {
+      "name": "Trinity",
+      "latitude": "17.30037",
+      "longitude": "-62.77584"
+    }
+  ],
+  "Asia/Pyongyang": [
+    {
+      "name": "Pyongyang",
+      "latitude": "39.03385",
+      "longitude": "125.75432"
+    },
+    {
+      "name": "Koksan",
+      "latitude": "38.78194",
+      "longitude": "126.66639"
+    },
+    {
+      "name": "Manp’o",
+      "latitude": "41.15472",
+      "longitude": "126.28944"
+    }
+  ],
+  "Asia/Seoul": [
+    {
+      "name": "Mijo",
+      "latitude": "34.7128",
+      "longitude": "128.04605"
+    },
+    {
+      "name": "Jangheung",
+      "latitude": "34.68164",
+      "longitude": "126.90694"
+    },
+    {
+      "name": "Nasan",
+      "latitude": "35.11447",
+      "longitude": "126.60908"
+    }
+  ],
+  "Asia/Kuwait": [
+    {
+      "name": "Al Manqaf",
+      "latitude": "29.09611",
+      "longitude": "48.13278"
+    },
+    {
+      "name": "Ar Riqqah",
+      "latitude": "29.14583",
+      "longitude": "48.09472"
+    },
+    {
+      "name": "Salwá",
+      "latitude": "29.29583",
+      "longitude": "48.07861"
+    }
+  ],
+  "America/Cayman": [
+    {
+      "name": "Bodden Town",
+      "latitude": "19.27647",
+      "longitude": "-81.2542"
+    },
+    {
+      "name": "George Town",
+      "latitude": "19.2866",
+      "longitude": "-81.37436"
+    },
+    {
+      "name": "East End",
+      "latitude": "19.3",
+      "longitude": "-81.11667"
+    }
+  ],
+  "Asia/Oral": [
+    {
+      "name": "Fedorovka",
+      "latitude": "51.22102",
+      "longitude": "51.95723"
+    },
+    {
+      "name": "Tasqala",
+      "latitude": "51.11073",
+      "longitude": "50.29454"
+    },
+    {
+      "name": "Krūgloozernoe",
+      "latitude": "51.07854",
+      "longitude": "51.28992"
+    }
+  ],
+  "Asia/Aqtau": [
+    {
+      "name": "Zhetibay",
+      "latitude": "43.59417",
+      "longitude": "52.07889"
+    },
+    {
+      "name": "Aktau",
+      "latitude": "43.65",
+      "longitude": "51.16667"
+    },
+    {
+      "name": "Taūshyq",
+      "latitude": "44.34678",
+      "longitude": "51.34932"
+    }
+  ],
+  "Asia/Aqtobe": [
+    {
+      "name": "Shalqar",
+      "latitude": "47.83333",
+      "longitude": "59.6"
+    },
+    {
+      "name": "Embi",
+      "latitude": "48.82981",
+      "longitude": "58.15042"
+    },
+    {
+      "name": "Kandyagash",
+      "latitude": "49.46912",
+      "longitude": "57.41914"
+    }
+  ],
+  "Asia/Atyrau": [
+    {
+      "name": "Qaraton",
+      "latitude": "46.43528",
+      "longitude": "53.48639"
+    },
+    {
+      "name": "Makhambet",
+      "latitude": "47.66667",
+      "longitude": "51.58333"
+    },
+    {
+      "name": "Maqat",
+      "latitude": "47.65",
+      "longitude": "53.31667"
+    }
+  ],
+  "Asia/Almaty": [
+    {
+      "name": "Ush-Tyube",
+      "latitude": "45.25201",
+      "longitude": "77.98007"
+    },
+    {
+      "name": "Sarkand",
+      "latitude": "45.41126",
+      "longitude": "79.91545"
+    },
+    {
+      "name": "Aktas",
+      "latitude": "49.77952",
+      "longitude": "72.96128"
+    }
+  ],
+  "Asia/Qyzylorda": [
+    {
+      "name": "Aral",
+      "latitude": "46.8",
+      "longitude": "61.66667"
+    },
+    {
+      "name": "Qazaly",
+      "latitude": "45.76278",
+      "longitude": "62.1075"
+    },
+    {
+      "name": "Dzhalagash",
+      "latitude": "45.08333",
+      "longitude": "64.66667"
+    }
+  ],
+  "Asia/Qostanay": [
+    {
+      "name": "Troyebratskiy",
+      "latitude": "54.44306",
+      "longitude": "66.07982"
+    },
+    {
+      "name": "Qusmuryn",
+      "latitude": "52.45107",
+      "longitude": "64.61977"
+    },
+    {
+      "name": "Qashar",
+      "latitude": "53.36799",
+      "longitude": "62.86839"
+    }
+  ],
+  "Asia/Vientiane": [
+    {
+      "name": "Phônthong",
+      "latitude": "15.10116",
+      "longitude": "105.65416"
+    },
+    {
+      "name": "Ban Hatgnao",
+      "latitude": "14.6803",
+      "longitude": "106.58212"
+    },
+    {
+      "name": "Salavan",
+      "latitude": "15.71652",
+      "longitude": "106.41744"
+    }
+  ],
+  "Asia/Beirut": [
+    {
+      "name": "Râchaïya el Ouadi",
+      "latitude": "33.50089",
+      "longitude": "35.8437"
+    },
+    {
+      "name": "Jbaïl",
+      "latitude": "34.12111",
+      "longitude": "35.64806"
+    },
+    {
+      "name": "El Hermel",
+      "latitude": "34.39417",
+      "longitude": "36.38472"
+    }
+  ],
+  "America/St_Lucia": [
+    {
+      "name": "Laborie",
+      "latitude": "13.75",
+      "longitude": "-60.98333"
+    },
+    {
+      "name": "Gros Islet",
+      "latitude": "14.06667",
+      "longitude": "-60.95"
+    },
+    {
+      "name": "Micoud",
+      "latitude": "13.81667",
+      "longitude": "-60.9"
+    }
+  ],
+  "Europe/Vaduz": [
+    {
+      "name": "Eschen",
+      "latitude": "47.21071",
+      "longitude": "9.52223"
+    },
+    {
+      "name": "Triesenberg",
+      "latitude": "47.11815",
+      "longitude": "9.54197"
+    },
+    {
+      "name": "Ruggell",
+      "latitude": "47.23799",
+      "longitude": "9.5254"
+    }
+  ],
+  "Asia/Colombo": [
+    {
+      "name": "Kolonnawa",
+      "latitude": "6.9329",
+      "longitude": "79.8848"
+    },
+    {
+      "name": "Batticaloa",
+      "latitude": "7.7102",
+      "longitude": "81.6924"
+    },
+    {
+      "name": "Hendala",
+      "latitude": "6.9909",
+      "longitude": "79.883"
+    }
+  ],
+  "Africa/Monrovia": [
+    {
+      "name": "Monrovia",
+      "latitude": "6.30054",
+      "longitude": "-10.7969"
+    },
+    {
+      "name": "Bensonville",
+      "latitude": "6.44716",
+      "longitude": "-10.61283"
+    },
+    {
+      "name": "Greenville",
+      "latitude": "5.01133",
+      "longitude": "-9.0388"
+    }
+  ],
+  "Africa/Maseru": [
+    {
+      "name": "Qacha’s Nek",
+      "latitude": "-30.11537",
+      "longitude": "28.68936"
+    },
+    {
+      "name": "Nako",
+      "latitude": "-29.61667",
+      "longitude": "27.76667"
+    },
+    {
+      "name": "Quthing",
+      "latitude": "-30.40001",
+      "longitude": "27.70027"
+    }
+  ],
+  "Europe/Vilnius": [
+    {
+      "name": "Gelgaudiškis",
+      "latitude": "55.07688",
+      "longitude": "22.97699"
+    },
+    {
+      "name": "Taurage",
+      "latitude": "55.25222",
+      "longitude": "22.28972"
+    },
+    {
+      "name": "Naujoji Akmene",
+      "latitude": "56.31667",
+      "longitude": "22.9"
+    }
+  ],
+  "Europe/Luxembourg": [
+    {
+      "name": "Bettembourg",
+      "latitude": "49.51861",
+      "longitude": "6.10278"
+    },
+    {
+      "name": "Redange-sur-Attert",
+      "latitude": "49.76437",
+      "longitude": "5.88997"
+    },
+    {
+      "name": "Waldbredimus",
+      "latitude": "49.55676",
+      "longitude": "6.28789"
+    }
+  ],
+  "Europe/Riga": [
+    {
+      "name": "Alsunga",
+      "latitude": "56.98194",
+      "longitude": "21.55938"
+    },
+    {
+      "name": "Krustpils",
+      "latitude": "56.51068",
+      "longitude": "25.86117"
+    },
+    {
+      "name": "Sala",
+      "latitude": "56.50675",
+      "longitude": "25.76423"
+    }
+  ],
+  "Africa/Tripoli": [
+    {
+      "name": "At Tāj",
+      "latitude": "24.20487",
+      "longitude": "23.2857"
+    },
+    {
+      "name": "Şabrātah",
+      "latitude": "32.79335",
+      "longitude": "12.48845"
+    },
+    {
+      "name": "Al Marj",
+      "latitude": "32.49257",
+      "longitude": "20.82909"
+    }
+  ],
+  "Europe/Monaco": [
+    {
+      "name": "Moneghetti",
+      "latitude": "43.73679",
+      "longitude": "7.41647"
+    },
+    {
+      "name": "La Condamine",
+      "latitude": "43.73439",
+      "longitude": "7.42024"
+    },
+    {
+      "name": "Saint-Roman",
+      "latitude": "43.7489",
+      "longitude": "7.43423"
+    }
+  ],
+  "Europe/Chisinau": [
+    {
+      "name": "Biruinţa",
+      "latitude": "47.81353",
+      "longitude": "28.07004"
+    },
+    {
+      "name": "Cantemir",
+      "latitude": "46.27743",
+      "longitude": "28.2027"
+    },
+    {
+      "name": "Vişniovca",
+      "latitude": "46.3326",
+      "longitude": "28.44797"
+    }
+  ],
+  "Europe/Kiev": [
+    {
+      "name": "Bilozerka",
+      "latitude": "46.6248",
+      "longitude": "32.44251"
+    },
+    {
+      "name": "Zahvizdya",
+      "latitude": "48.91836",
+      "longitude": "24.65275"
+    },
+    {
+      "name": "Serebryanka",
+      "latitude": "48.91917",
+      "longitude": "38.13494"
+    }
+  ],
+  "Europe/Podgorica": [
+    {
+      "name": "Šavnik",
+      "latitude": "42.95639",
+      "longitude": "19.09667"
+    },
+    {
+      "name": "Golubovci",
+      "latitude": "42.335",
+      "longitude": "19.23111"
+    },
+    {
+      "name": "Pljevlja",
+      "latitude": "43.3567",
+      "longitude": "19.35843"
+    }
+  ],
+  "America/Marigot": [
+    {
+      "name": "Marigot",
+      "latitude": "18.06819",
+      "longitude": "-63.08302"
+    }
+  ],
+  "Indian/Antananarivo": [
+    {
+      "name": "Ambalavao",
+      "latitude": "-21.83333",
+      "longitude": "46.93333"
+    },
+    {
+      "name": "Marovoay",
+      "latitude": "-16.11064",
+      "longitude": "46.64383"
+    },
+    {
+      "name": "Farafangana",
+      "latitude": "-22.82223",
+      "longitude": "47.82615"
+    }
+  ],
+  "Indian/Maldives": [
+    {
+      "name": "Eydhafushi",
+      "latitude": "5.10327",
+      "longitude": "73.07078"
+    },
+    {
+      "name": "Antsampanimahazo",
+      "latitude": "-19.63988",
+      "longitude": "47.1565"
+    },
+    {
+      "name": "Fonadhoo",
+      "latitude": "1.83243",
+      "longitude": "73.50257"
+    }
+  ],
+  "Pacific/Majuro": [
+    {
+      "name": "Ailuk",
+      "latitude": "10.21972",
+      "longitude": "169.97967"
+    },
+    {
+      "name": "Aur",
+      "latitude": "8.1499",
+      "longitude": "171.16869"
+    },
+    {
+      "name": "Kili",
+      "latitude": "5.64387",
+      "longitude": "169.12109"
+    }
+  ],
+  "Pacific/Kwajalein": [
+    {
+      "name": "Ebaye",
+      "latitude": "8.77479",
+      "longitude": "167.73919"
+    },
+    {
+      "name": "Jabat",
+      "latitude": "7.75003",
+      "longitude": "168.97513"
+    }
+  ],
+  "Europe/Skopje": [
+    {
+      "name": "Pirok",
+      "latitude": "41.91083",
+      "longitude": "20.91056"
+    },
+    {
+      "name": "Gorno Orizari",
+      "latitude": "41.68583",
+      "longitude": "21.73475"
+    },
+    {
+      "name": "Ljubin",
+      "latitude": "42.00139",
+      "longitude": "21.30917"
+    }
+  ],
+  "Africa/Bamako": [
+    {
+      "name": "Koro",
+      "latitude": "14.064",
+      "longitude": "-3.07539"
+    },
+    {
+      "name": "Djénné",
+      "latitude": "13.90608",
+      "longitude": "-4.55332"
+    },
+    {
+      "name": "Bourem",
+      "latitude": "16.955",
+      "longitude": "-0.34861"
+    }
+  ],
+  "Asia/Hovd": [
+    {
+      "name": "Dzüyl",
+      "latitude": "46.30686",
+      "longitude": "93.90409"
+    },
+    {
+      "name": "Dzür",
+      "latitude": "49.65796",
+      "longitude": "95.79323"
+    },
+    {
+      "name": "Namir",
+      "latitude": "49.10641",
+      "longitude": "91.71782"
+    }
+  ],
+  "Asia/Ulaanbaatar": [
+    {
+      "name": "Dzöölön",
+      "latitude": "51.10719",
+      "longitude": "99.67226"
+    },
+    {
+      "name": "Ihbulag",
+      "latitude": "43.2",
+      "longitude": "107.2"
+    },
+    {
+      "name": "Bulagtay",
+      "latitude": "49.77594",
+      "longitude": "107.51616"
+    }
+  ],
+  "Asia/Choibalsan": [
+    {
+      "name": "Shireet",
+      "latitude": "45.72727",
+      "longitude": "112.35563"
+    },
+    {
+      "name": "Hatavch",
+      "latitude": "46.16667",
+      "longitude": "112.95"
+    },
+    {
+      "name": "Hanhöhiy",
+      "latitude": "47.61667",
+      "longitude": "112.13333"
+    }
+  ],
+  "Asia/Macau": [
+    {
+      "name": "Macau",
+      "latitude": "22.20056",
+      "longitude": "113.54611"
+    }
+  ],
+  "Pacific/Saipan": [
+    {
+      "name": "San Jose Village",
+      "latitude": "14.96823",
+      "longitude": "145.61998"
+    },
+    {
+      "name": "Saipan",
+      "latitude": "15.21233",
+      "longitude": "145.7545"
+    }
+  ],
+  "America/Martinique": [
+    {
+      "name": "Le Morne-Rouge",
+      "latitude": "14.7761",
+      "longitude": "-61.13564"
+    },
+    {
+      "name": "Basse-Pointe",
+      "latitude": "14.86935",
+      "longitude": "-61.11521"
+    },
+    {
+      "name": "Les Trois-Îlets",
+      "latitude": "14.53912",
+      "longitude": "-61.03354"
+    }
+  ],
+  "Africa/Nouakchott": [
+    {
+      "name": "Atar",
+      "latitude": "20.5177",
+      "longitude": "-13.04857"
+    },
+    {
+      "name": "Tevragh Zeina",
+      "latitude": "18.09894",
+      "longitude": "-15.98848"
+    },
+    {
+      "name": "Kiffa",
+      "latitude": "16.62073",
+      "longitude": "-11.40208"
+    }
+  ],
+  "America/Montserrat": [
+    {
+      "name": "Saint Peters",
+      "latitude": "16.7727",
+      "longitude": "-62.21729"
+    },
+    {
+      "name": "Brades",
+      "latitude": "16.79183",
+      "longitude": "-62.21058"
+    },
+    {
+      "name": "Plymouth",
+      "latitude": "16.70555",
+      "longitude": "-62.21292"
+    }
+  ],
+  "Europe/Malta": [
+    {
+      "name": "Hal Gharghur",
+      "latitude": "35.92409",
+      "longitude": "14.45118"
+    },
+    {
+      "name": "Saint John",
+      "latitude": "35.90556",
+      "longitude": "14.47611"
+    },
+    {
+      "name": "Ta’ Xbiex",
+      "latitude": "35.89917",
+      "longitude": "14.49444"
+    }
+  ],
+  "Indian/Mauritius": [
+    {
+      "name": "Plaine des Papayes",
+      "latitude": "-20.065",
+      "longitude": "57.5725"
+    },
+    {
+      "name": "Chemin Grenier",
+      "latitude": "-20.48722",
+      "longitude": "57.46556"
+    },
+    {
+      "name": "Mare La Chaux",
+      "latitude": "-20.19806",
+      "longitude": "57.74944"
+    }
+  ],
+  "Africa/Blantyre": [
+    {
+      "name": "Livingstonia",
+      "latitude": "-10.60602",
+      "longitude": "34.10628"
+    },
+    {
+      "name": "Dedza",
+      "latitude": "-14.3779",
+      "longitude": "34.33322"
+    },
+    {
+      "name": "Makata",
+      "latitude": "-15.78721",
+      "longitude": "35.03046"
+    }
+  ],
+  "America/Monterrey": [
+    {
+      "name": "Villa Mainero",
+      "latitude": "24.56007",
+      "longitude": "-99.61561"
+    },
+    {
+      "name": "Maravillas",
+      "latitude": "25.65872",
+      "longitude": "-103.34079"
+    },
+    {
+      "name": "Monclova Primer Sector",
+      "latitude": "25.81472",
+      "longitude": "-100.40306"
+    }
+  ],
+  "America/Mexico_City": [
+    {
+      "name": "San Juan la Isla",
+      "latitude": "19.13027",
+      "longitude": "-99.57076"
+    },
+    {
+      "name": "El Oro de Hidalgo",
+      "latitude": "19.80272",
+      "longitude": "-100.13081"
+    },
+    {
+      "name": "La Tinaja",
+      "latitude": "20.49028",
+      "longitude": "-101.21556"
+    }
+  ],
+  "America/Matamoros": [
+    {
+      "name": "Las Higuerillas",
+      "latitude": "25.26222",
+      "longitude": "-97.43611"
+    },
+    {
+      "name": "El Campanario y Oradel",
+      "latitude": "27.47306",
+      "longitude": "-99.62"
+    },
+    {
+      "name": "Ciudad Acuña",
+      "latitude": "29.32322",
+      "longitude": "-100.95217"
+    }
+  ],
+  "America/Merida": [
+    {
+      "name": "Ekmul",
+      "latitude": "20.9646",
+      "longitude": "-89.35004"
+    },
+    {
+      "name": "Dzemul",
+      "latitude": "21.21036",
+      "longitude": "-89.30956"
+    },
+    {
+      "name": "Hoctun",
+      "latitude": "20.86513",
+      "longitude": "-89.20125"
+    }
+  ],
+  "America/Cancun": [
+    {
+      "name": "Carlos A. Madrazo",
+      "latitude": "18.50172",
+      "longitude": "-88.52508"
+    },
+    {
+      "name": "Playa del Carmen",
+      "latitude": "20.6274",
+      "longitude": "-87.07987"
+    },
+    {
+      "name": "Señor",
+      "latitude": "19.84424",
+      "longitude": "-88.13524"
+    }
+  ],
+  "America/Mazatlan": [
+    {
+      "name": "Macapule",
+      "latitude": "25.88607",
+      "longitude": "-109.1482"
+    },
+    {
+      "name": "Llano del Tigre",
+      "latitude": "22.12707",
+      "longitude": "-105.30581"
+    },
+    {
+      "name": "La Palma",
+      "latitude": "21.49172",
+      "longitude": "-105.17817"
+    }
+  ],
+  "America/Hermosillo": [
+    {
+      "name": "Los Hoyos",
+      "latitude": "30.12444",
+      "longitude": "-109.78222"
+    },
+    {
+      "name": "Mora Villalobos",
+      "latitude": "27.51145",
+      "longitude": "-110.0561"
+    },
+    {
+      "name": "Esqueda",
+      "latitude": "30.72412",
+      "longitude": "-109.5893"
+    }
+  ],
+  "America/Chihuahua": [
+    {
+      "name": "Bachíniva",
+      "latitude": "28.76801",
+      "longitude": "-107.25559"
+    },
+    {
+      "name": "Ejido La Quemada",
+      "latitude": "28.84761",
+      "longitude": "-107.02152"
+    },
+    {
+      "name": "La Constitución",
+      "latitude": "29.92077",
+      "longitude": "-106.7962"
+    }
+  ],
+  "America/Tijuana": [
+    {
+      "name": "La Esperanza [Granjas Familiares]",
+      "latitude": "32.46278",
+      "longitude": "-117.105"
+    },
+    {
+      "name": "Ciudad Coahuila (Kilómetro Cincuenta y Siete)",
+      "latitude": "32.19556",
+      "longitude": "-115.0025"
+    },
+    {
+      "name": "Tecolots",
+      "latitude": "32.56667",
+      "longitude": "-114.98333"
+    }
+  ],
+  "America/Bahia_Banderas": [
+    {
+      "name": "Valle de Banderas",
+      "latitude": "20.80792",
+      "longitude": "-105.24813"
+    },
+    {
+      "name": "Corral del Risco (Punta de Mita)",
+      "latitude": "20.77361",
+      "longitude": "-105.51667"
+    },
+    {
+      "name": "Bucerías",
+      "latitude": "20.75626",
+      "longitude": "-105.33438"
+    }
+  ],
+  "America/Ojinaga": [
+    {
+      "name": "Manuel Ojinaga",
+      "latitude": "29.56444",
+      "longitude": "-104.41639"
+    },
+    {
+      "name": "San Agustín",
+      "latitude": "31.51674",
+      "longitude": "-106.25548"
+    },
+    {
+      "name": "Samalayuca",
+      "latitude": "31.34242",
+      "longitude": "-106.47981"
+    }
+  ],
+  "Asia/Kuala_Lumpur": [
+    {
+      "name": "Teluk Intan",
+      "latitude": "4.02219",
+      "longitude": "101.02083"
+    },
+    {
+      "name": "Nibong Tebal",
+      "latitude": "5.16586",
+      "longitude": "100.47793"
+    },
+    {
+      "name": "Kulim",
+      "latitude": "5.36499",
+      "longitude": "100.56177"
+    }
+  ],
+  "Asia/Kuching": [
+    {
+      "name": "Kota Kinabalu",
+      "latitude": "5.9749",
+      "longitude": "116.0724"
+    },
+    {
+      "name": "Long Ampan Aing or Abanang",
+      "latitude": "2.65671",
+      "longitude": "114.73675"
+    },
+    {
+      "name": "Sandakan",
+      "latitude": "5.8402",
+      "longitude": "118.1179"
+    }
+  ],
+  "Africa/Maputo": [
+    {
+      "name": "Ressano Garcia",
+      "latitude": "-25.44278",
+      "longitude": "31.99528"
+    },
+    {
+      "name": "Ilha de Moçambique",
+      "latitude": "-15.03417",
+      "longitude": "40.73583"
+    },
+    {
+      "name": "Chinde",
+      "latitude": "-18.58111",
+      "longitude": "36.45861"
+    }
+  ],
+  "Africa/Windhoek": [
+    {
+      "name": "Arandis",
+      "latitude": "-22.41667",
+      "longitude": "14.96667"
+    },
+    {
+      "name": "Outapi",
+      "latitude": "-17.5",
+      "longitude": "14.98333"
+    },
+    {
+      "name": "Ongwediva",
+      "latitude": "-17.78333",
+      "longitude": "15.76667"
+    }
+  ],
+  "Pacific/Noumea": [
+    {
+      "name": "Voh",
+      "latitude": "-20.96667",
+      "longitude": "164.7"
+    },
+    {
+      "name": "Wala",
+      "latitude": "-19.71161",
+      "longitude": "163.64702"
+    },
+    {
+      "name": "Nouméa",
+      "latitude": "-22.27407",
+      "longitude": "166.44884"
+    }
+  ],
+  "Africa/Niamey": [
+    {
+      "name": "Kanamma",
+      "latitude": "13.09969",
+      "longitude": "12.1079"
+    },
+    {
+      "name": "Bouza",
+      "latitude": "14.42293",
+      "longitude": "6.04278"
+    },
+    {
+      "name": "Say",
+      "latitude": "13.1007",
+      "longitude": "2.3689"
+    }
+  ],
+  "Pacific/Norfolk": [
+    {
+      "name": "Kingston",
+      "latitude": "-29.05459",
+      "longitude": "167.96628"
+    }
+  ],
+  "Africa/Lagos": [
+    {
+      "name": "Albasu",
+      "latitude": "11.67403",
+      "longitude": "9.14059"
+    },
+    {
+      "name": "Agwara",
+      "latitude": "10.70611",
+      "longitude": "4.58125"
+    },
+    {
+      "name": "Anka",
+      "latitude": "12.11347",
+      "longitude": "5.92681"
+    }
+  ],
+  "America/Managua": [
+    {
+      "name": "Rivas",
+      "latitude": "11.43716",
+      "longitude": "-85.82632"
+    },
+    {
+      "name": "Bocana de Paiwas",
+      "latitude": "12.78571",
+      "longitude": "-85.12269"
+    },
+    {
+      "name": "Corinto",
+      "latitude": "12.4825",
+      "longitude": "-87.17304"
+    }
+  ],
+  "Europe/Amsterdam": [
+    {
+      "name": "Malburgen West",
+      "latitude": "51.96811",
+      "longitude": "5.89743"
+    },
+    {
+      "name": "Biddinghuizen",
+      "latitude": "52.455",
+      "longitude": "5.69306"
+    },
+    {
+      "name": "Schiebroek",
+      "latitude": "51.95838",
+      "longitude": "4.47124"
+    }
+  ],
+  "Europe/Oslo": [
+    {
+      "name": "Mehamn",
+      "latitude": "71.04137",
+      "longitude": "27.85133"
+    },
+    {
+      "name": "Selvik",
+      "latitude": "59.56645",
+      "longitude": "10.26004"
+    },
+    {
+      "name": "Farnes",
+      "latitude": "61.3085",
+      "longitude": "7.79694"
+    }
+  ],
+  "Pacific/Nauru": [
+    {
+      "name": "Menen",
+      "latitude": "-0.54539",
+      "longitude": "166.94871"
+    },
+    {
+      "name": "Anibare",
+      "latitude": "-0.52792",
+      "longitude": "166.95249"
+    },
+    {
+      "name": "Baiti",
+      "latitude": "-0.50803",
+      "longitude": "166.92945"
+    }
+  ],
+  "Pacific/Niue": [
+    {
+      "name": "Alofi",
+      "latitude": "-19.05451",
+      "longitude": "-169.91768"
+    }
+  ],
+  "Pacific/Auckland": [
+    {
+      "name": "Burnham",
+      "latitude": "-43.61667",
+      "longitude": "172.31667"
+    },
+    {
+      "name": "Whangarei",
+      "latitude": "-35.73167",
+      "longitude": "174.32391"
+    },
+    {
+      "name": "Wellsford",
+      "latitude": "-36.28333",
+      "longitude": "174.51667"
+    }
+  ],
+  "Pacific/Chatham": [
+    {
+      "name": "Waitangi",
+      "latitude": "-43.95353",
+      "longitude": "-176.55973"
+    }
+  ],
+  "Asia/Muscat": [
+    {
+      "name": "Rustaq",
+      "latitude": "23.39083",
+      "longitude": "57.42444"
+    },
+    {
+      "name": "Al Buraymī",
+      "latitude": "24.25088",
+      "longitude": "55.79312"
+    },
+    {
+      "name": "Dib Dibba",
+      "latitude": "26.19778",
+      "longitude": "56.25778"
+    }
+  ],
+  "America/Panama": [
+    {
+      "name": "Dolega District",
+      "latitude": "8.56667",
+      "longitude": "-82.41407"
+    },
+    {
+      "name": "Nuevo Vigía",
+      "latitude": "9.24263",
+      "longitude": "-79.60756"
+    },
+    {
+      "name": "Las Uvas",
+      "latitude": "8.45937",
+      "longitude": "-80.00075"
+    }
+  ],
+  "America/Lima": [
+    {
+      "name": "Utco",
+      "latitude": "-6.91667",
+      "longitude": "-78.05"
+    },
+    {
+      "name": "Livitaca",
+      "latitude": "-14.30194",
+      "longitude": "-71.68722"
+    },
+    {
+      "name": "Masma",
+      "latitude": "-11.78509",
+      "longitude": "-75.42597"
+    }
+  ],
+  "Pacific/Marquesas": [
+    {
+      "name": "Atuona",
+      "latitude": "-9.80342",
+      "longitude": "-139.04202"
+    },
+    {
+      "name": "Taiohae",
+      "latitude": "-8.91093",
+      "longitude": "-140.09972"
+    }
+  ],
+  "Pacific/Gambier": [
+    {
+      "name": "Rikitea",
+      "latitude": "-23.12028",
+      "longitude": "-134.96917"
+    }
+  ],
+  "Pacific/Tahiti": [
+    {
+      "name": "Mahina",
+      "latitude": "-17.50648",
+      "longitude": "-149.48899"
+    },
+    {
+      "name": "Teahupoo",
+      "latitude": "-17.83333",
+      "longitude": "-149.26667"
+    },
+    {
+      "name": "Afaahiti",
+      "latitude": "-17.74395",
+      "longitude": "-149.32444"
+    }
+  ],
+  "Pacific/Port_Moresby": [
+    {
+      "name": "Port Moresby",
+      "latitude": "-9.47723",
+      "longitude": "147.15089"
+    },
+    {
+      "name": "Aitape",
+      "latitude": "-3.13697",
+      "longitude": "142.34913"
+    },
+    {
+      "name": "Finschhafen",
+      "latitude": "-6.55793",
+      "longitude": "147.84635"
+    }
+  ],
+  "Pacific/Bougainville": [
+    {
+      "name": "Kieta",
+      "latitude": "-6.21462",
+      "longitude": "155.63251"
+    },
+    {
+      "name": "Panguna",
+      "latitude": "-6.31639",
+      "longitude": "155.48483"
+    },
+    {
+      "name": "Buka",
+      "latitude": "-5.43261",
+      "longitude": "154.67098"
+    }
+  ],
+  "Asia/Manila": [
+    {
+      "name": "Irasan",
+      "latitude": "8.526",
+      "longitude": "123.206"
+    },
+    {
+      "name": "Cumadcad",
+      "latitude": "12.98056",
+      "longitude": "123.78917"
+    },
+    {
+      "name": "Kalbugan",
+      "latitude": "6.95972",
+      "longitude": "124.65917"
+    }
+  ],
+  "Asia/Karachi": [
+    {
+      "name": "Bhimbar",
+      "latitude": "32.97465",
+      "longitude": "74.07846"
+    },
+    {
+      "name": "Miro Khan",
+      "latitude": "27.75985",
+      "longitude": "68.09195"
+    },
+    {
+      "name": "Gojra",
+      "latitude": "31.14926",
+      "longitude": "72.68323"
+    }
+  ],
+  "Europe/Warsaw": [
+    {
+      "name": "Wola Jachowa",
+      "latitude": "50.84524",
+      "longitude": "20.85814"
+    },
+    {
+      "name": "Szczurowa",
+      "latitude": "50.11915",
+      "longitude": "20.6361"
+    },
+    {
+      "name": "Strzelno",
+      "latitude": "52.62789",
+      "longitude": "18.17246"
+    }
+  ],
+  "America/Miquelon": [
+    {
+      "name": "Saint-Pierre",
+      "latitude": "46.77914",
+      "longitude": "-56.1773"
+    },
+    {
+      "name": "Miquelon",
+      "latitude": "47.0975",
+      "longitude": "-56.38139"
+    }
+  ],
+  "Pacific/Pitcairn": [
+    {
+      "name": "Adamstown",
+      "latitude": "-25.06597",
+      "longitude": "-130.10147"
+    }
+  ],
+  "America/Puerto_Rico": [
+    {
+      "name": "Coto Laurel",
+      "latitude": "18.04969",
+      "longitude": "-66.55128"
+    },
+    {
+      "name": "San Germán",
+      "latitude": "18.08163",
+      "longitude": "-67.0449"
+    },
+    {
+      "name": "Aguas Buenas",
+      "latitude": "18.2569",
+      "longitude": "-66.10294"
+    }
+  ],
+  "Asia/Gaza": [
+    {
+      "name": "Gaza",
+      "latitude": "31.50161",
+      "longitude": "34.46672"
+    },
+    {
+      "name": "Bayt Lāhyā",
+      "latitude": "31.5464",
+      "longitude": "34.49514"
+    },
+    {
+      "name": "Al Muşaddar",
+      "latitude": "31.41052",
+      "longitude": "34.37802"
+    }
+  ],
+  "Atlantic/Madeira": [
+    {
+      "name": "Estreito da Calheta",
+      "latitude": "32.73704",
+      "longitude": "-17.18674"
+    },
+    {
+      "name": "Fajã da Ovelha",
+      "latitude": "32.77457",
+      "longitude": "-17.23412"
+    },
+    {
+      "name": "Calheta",
+      "latitude": "32.71667",
+      "longitude": "-17.18333"
+    }
+  ],
+  "Atlantic/Azores": [
+    {
+      "name": "Ponta Garça",
+      "latitude": "37.71667",
+      "longitude": "-25.36667"
+    },
+    {
+      "name": "Fenais da Luz",
+      "latitude": "37.8249",
+      "longitude": "-25.64229"
+    },
+    {
+      "name": "Porto Judeu",
+      "latitude": "38.64814",
+      "longitude": "-27.11944"
+    }
+  ],
+  "Pacific/Palau": [
+    {
+      "name": "Koror Town",
+      "latitude": "7.34257",
+      "longitude": "134.47888"
+    },
+    {
+      "name": "Tobi Village",
+      "latitude": "3.00488",
+      "longitude": "131.12168"
+    },
+    {
+      "name": "Imeong Hamlet",
+      "latitude": "7.53134",
+      "longitude": "134.52713"
+    }
+  ],
+  "America/Asuncion": [
+    {
+      "name": "Guarambaré",
+      "latitude": "-25.49096",
+      "longitude": "-57.45567"
+    },
+    {
+      "name": "Iturbe",
+      "latitude": "-26.05508",
+      "longitude": "-56.48463"
+    },
+    {
+      "name": "Corpus Christi",
+      "latitude": "-24.0804",
+      "longitude": "-54.93933"
+    }
+  ],
+  "Asia/Qatar": [
+    {
+      "name": "Az̧ Z̧a‘āyin",
+      "latitude": "25.57744",
+      "longitude": "51.48306"
+    },
+    {
+      "name": "Dukhān",
+      "latitude": "25.42485",
+      "longitude": "50.78227"
+    },
+    {
+      "name": "Musay‘īd",
+      "latitude": "24.99226",
+      "longitude": "51.55067"
+    }
+  ],
+  "Indian/Reunion": [
+    {
+      "name": "Saint-Pierre",
+      "latitude": "-21.3393",
+      "longitude": "55.47811"
+    },
+    {
+      "name": "Saint-Leu",
+      "latitude": "-21.17059",
+      "longitude": "55.28824"
+    },
+    {
+      "name": "Sainte-Marie",
+      "latitude": "-20.89686",
+      "longitude": "55.55056"
+    }
+  ],
+  "Europe/Bucharest": [
+    {
+      "name": "Boloteşti",
+      "latitude": "45.83333",
+      "longitude": "27.06667"
+    },
+    {
+      "name": "Negomir",
+      "latitude": "44.83333",
+      "longitude": "23.16667"
+    },
+    {
+      "name": "Sântămăria-Orlea",
+      "latitude": "45.58874",
+      "longitude": "22.97042"
+    }
+  ],
+  "Europe/Belgrade": [
+    {
+      "name": "Lukićevo",
+      "latitude": "45.33815",
+      "longitude": "20.49895"
+    },
+    {
+      "name": "Novo Selo",
+      "latitude": "44.67041",
+      "longitude": "19.34495"
+    },
+    {
+      "name": "Ivanjica",
+      "latitude": "43.58028",
+      "longitude": "20.23111"
+    }
+  ],
+  "Europe/Moscow": [
+    {
+      "name": "Anopino",
+      "latitude": "55.69809",
+      "longitude": "40.66707"
+    },
+    {
+      "name": "Voznesenskaya",
+      "latitude": "44.5527",
+      "longitude": "41.0318"
+    },
+    {
+      "name": "Blizhne-Pesochnoye",
+      "latitude": "55.3456",
+      "longitude": "42.1015"
+    }
+  ],
+  "Asia/Yekaterinburg": [
+    {
+      "name": "Parizh",
+      "latitude": "53.2974",
+      "longitude": "60.1005"
+    },
+    {
+      "name": "Priyutovo",
+      "latitude": "53.9",
+      "longitude": "53.93333"
+    },
+    {
+      "name": "Cheremshanka",
+      "latitude": "56.1192",
+      "longitude": "60.26804"
+    }
+  ],
+  "Europe/Kirov": [
+    {
+      "name": "Sovetsk",
+      "latitude": "57.58475",
+      "longitude": "48.95844"
+    },
+    {
+      "name": "Vostochnyy",
+      "latitude": "58.78811",
+      "longitude": "52.24513"
+    },
+    {
+      "name": "Maromitsa",
+      "latitude": "59.86828",
+      "longitude": "48.01227"
+    }
+  ],
+  "Europe/Samara": [
+    {
+      "name": "Smyshlyayevka",
+      "latitude": "53.23913",
+      "longitude": "50.39072"
+    },
+    {
+      "name": "Dubovyy Umët",
+      "latitude": "52.97629",
+      "longitude": "50.28569"
+    },
+    {
+      "name": "Mezhdurechensk",
+      "latitude": "53.2665",
+      "longitude": "49.1116"
+    }
+  ],
+  "Europe/Kaliningrad": [
+    {
+      "name": "Primorsk",
+      "latitude": "54.73905",
+      "longitude": "20.00553"
+    },
+    {
+      "name": "Znamensk",
+      "latitude": "54.61403",
+      "longitude": "21.22722"
+    },
+    {
+      "name": "Slavsk",
+      "latitude": "55.0425",
+      "longitude": "21.67704"
+    }
+  ],
+  "Europe/Volgograd": [
+    {
+      "name": "Vodstroy",
+      "latitude": "48.84165",
+      "longitude": "44.55793"
+    },
+    {
+      "name": "Volgograd",
+      "latitude": "48.71939",
+      "longitude": "44.50183"
+    },
+    {
+      "name": "Uryupinsk",
+      "latitude": "50.8047",
+      "longitude": "42.0138"
+    }
+  ],
+  "Europe/Ulyanovsk": [
+    {
+      "name": "Inza",
+      "latitude": "53.85672",
+      "longitude": "46.35622"
+    },
+    {
+      "name": "Krasnyy Gulyay",
+      "latitude": "54.02821",
+      "longitude": "48.33327"
+    },
+    {
+      "name": "Undory",
+      "latitude": "54.60849",
+      "longitude": "48.39276"
+    }
+  ],
+  "Europe/Astrakhan": [
+    {
+      "name": "Tumak",
+      "latitude": "46.23436",
+      "longitude": "48.50627"
+    },
+    {
+      "name": "Zenzeli",
+      "latitude": "45.92407",
+      "longitude": "47.04739"
+    },
+    {
+      "name": "Kapustin Yar",
+      "latitude": "48.58175",
+      "longitude": "45.74481"
+    }
+  ],
+  "Europe/Saratov": [
+    {
+      "name": "Tatishchevo",
+      "latitude": "51.67028",
+      "longitude": "45.59528"
+    },
+    {
+      "name": "Dergachi",
+      "latitude": "51.2328",
+      "longitude": "48.7659"
+    },
+    {
+      "name": "Aleksandrov Gay",
+      "latitude": "50.14704",
+      "longitude": "48.57037"
+    }
+  ],
+  "Asia/Novokuznetsk": [
+    {
+      "name": "Krasnobrodskiy",
+      "latitude": "54.1581",
+      "longitude": "86.4486"
+    },
+    {
+      "name": "Osinniki",
+      "latitude": "53.6239",
+      "longitude": "87.3598"
+    },
+    {
+      "name": "Kemerovo",
+      "latitude": "55.33333",
+      "longitude": "86.08333"
+    }
+  ],
+  "Asia/Tomsk": [
+    {
+      "name": "Kaltay",
+      "latitude": "56.27917",
+      "longitude": "84.87861"
+    },
+    {
+      "name": "Tegul’det",
+      "latitude": "57.30679",
+      "longitude": "88.16004"
+    },
+    {
+      "name": "Parabel’",
+      "latitude": "58.69778",
+      "longitude": "81.4825"
+    }
+  ],
+  "Asia/Krasnoyarsk": [
+    {
+      "name": "Krasnoyarsk",
+      "latitude": "56.01839",
+      "longitude": "92.86717"
+    },
+    {
+      "name": "Aban",
+      "latitude": "56.6787",
+      "longitude": "96.0658"
+    },
+    {
+      "name": "Chunoyar",
+      "latitude": "57.4483",
+      "longitude": "97.3286"
+    }
+  ],
+  "Asia/Barnaul": [
+    {
+      "name": "Novyye Zori",
+      "latitude": "53.24778",
+      "longitude": "83.425"
+    },
+    {
+      "name": "Nagornyy",
+      "latitude": "52.7959",
+      "longitude": "83.5498"
+    },
+    {
+      "name": "Beloyarsk",
+      "latitude": "53.4461",
+      "longitude": "83.9048"
+    }
+  ],
+  "Asia/Omsk": [
+    {
+      "name": "Luzino",
+      "latitude": "54.94811",
+      "longitude": "73.03531"
+    },
+    {
+      "name": "Tara",
+      "latitude": "56.89436",
+      "longitude": "74.37096"
+    },
+    {
+      "name": "Choya",
+      "latitude": "52.0108",
+      "longitude": "86.5467"
+    }
+  ],
+  "Asia/Novosibirsk": [
+    {
+      "name": "Stantsionno-Oyashinskiy",
+      "latitude": "55.4664",
+      "longitude": "83.8245"
+    },
+    {
+      "name": "Chulym",
+      "latitude": "55.09972",
+      "longitude": "80.95722"
+    },
+    {
+      "name": "Severnoye",
+      "latitude": "56.34912",
+      "longitude": "78.36189"
+    }
+  ],
+  "Asia/Irkutsk": [
+    {
+      "name": "Kirensk",
+      "latitude": "57.78528",
+      "longitude": "108.11194"
+    },
+    {
+      "name": "Ust’-Ordynskiy",
+      "latitude": "52.805",
+      "longitude": "104.75083"
+    },
+    {
+      "name": "Istok",
+      "latitude": "52.09528",
+      "longitude": "106.2475"
+    }
+  ],
+  "Asia/Chita": [
+    {
+      "name": "Vershino-Darasunskiy",
+      "latitude": "52.36604",
+      "longitude": "115.52661"
+    },
+    {
+      "name": "Kyra",
+      "latitude": "49.57903",
+      "longitude": "111.97638"
+    },
+    {
+      "name": "Aginskoye",
+      "latitude": "51.1",
+      "longitude": "114.53"
+    }
+  ],
+  "Asia/Yakutsk": [
+    {
+      "name": "Chernyshevskiy",
+      "latitude": "63.01601",
+      "longitude": "112.46901"
+    },
+    {
+      "name": "Novoraychikhinsk",
+      "latitude": "49.78423",
+      "longitude": "129.59051"
+    },
+    {
+      "name": "Khatassy",
+      "latitude": "61.90638",
+      "longitude": "129.63302"
+    }
+  ],
+  "Asia/Vladivostok": [
+    {
+      "name": "Imeni Poliny Osipenko",
+      "latitude": "52.4227",
+      "longitude": "136.48692"
+    },
+    {
+      "name": "Khor",
+      "latitude": "47.88696",
+      "longitude": "134.9463"
+    },
+    {
+      "name": "Romanovka",
+      "latitude": "43.23294",
+      "longitude": "132.45714"
+    }
+  ],
+  "Asia/Kamchatka": [
+    {
+      "name": "Palana",
+      "latitude": "59.08384",
+      "longitude": "159.9563"
+    },
+    {
+      "name": "Atlasovo",
+      "latitude": "55.6065",
+      "longitude": "159.64266"
+    },
+    {
+      "name": "Tigil’",
+      "latitude": "57.75979",
+      "longitude": "158.68161"
+    }
+  ],
+  "Asia/Magadan": [
+    {
+      "name": "Orotukan",
+      "latitude": "62.26423",
+      "longitude": "151.67153"
+    },
+    {
+      "name": "Cherskiy",
+      "latitude": "68.75325",
+      "longitude": "161.33197"
+    },
+    {
+      "name": "Palatka",
+      "latitude": "60.10183",
+      "longitude": "150.93433"
+    }
+  ],
+  "Asia/Sakhalin": [
+    {
+      "name": "Pravda",
+      "latitude": "46.93972",
+      "longitude": "142.00426"
+    },
+    {
+      "name": "Aleksandrovsk-Sakhalinskiy",
+      "latitude": "50.89926",
+      "longitude": "142.16215"
+    },
+    {
+      "name": "Makarov",
+      "latitude": "48.62698",
+      "longitude": "142.77999"
+    }
+  ],
+  "Asia/Anadyr": [
+    {
+      "name": "Egvekinot",
+      "latitude": "66.32166",
+      "longitude": "-179.12198"
+    },
+    {
+      "name": "Beringovskiy",
+      "latitude": "63.06101",
+      "longitude": "179.35046"
+    },
+    {
+      "name": "Pevek",
+      "latitude": "69.70287",
+      "longitude": "170.29993"
+    }
+  ],
+  "Africa/Kigali": [
+    {
+      "name": "Musanze",
+      "latitude": "-1.49984",
+      "longitude": "29.63497"
+    },
+    {
+      "name": "Kibungo",
+      "latitude": "-2.1597",
+      "longitude": "30.5427"
+    },
+    {
+      "name": "Kibuye",
+      "latitude": "-2.06028",
+      "longitude": "29.34778"
+    }
+  ],
+  "Asia/Riyadh": [
+    {
+      "name": "Şafwá",
+      "latitude": "26.6497",
+      "longitude": "49.95522"
+    },
+    {
+      "name": "Raḩīmah",
+      "latitude": "26.70791",
+      "longitude": "50.06194"
+    },
+    {
+      "name": "Ha'il",
+      "latitude": "27.52188",
+      "longitude": "41.69073"
+    }
+  ],
+  "Pacific/Guadalcanal": [
+    {
+      "name": "Lata",
+      "latitude": "-10.725",
+      "longitude": "165.79722"
+    },
+    {
+      "name": "Taro",
+      "latitude": "-6.71111",
+      "longitude": "156.39722"
+    },
+    {
+      "name": "Kirakira",
+      "latitude": "-10.45442",
+      "longitude": "161.92045"
+    }
+  ],
+  "Indian/Mahe": [
+    {
+      "name": "Beau Vallon",
+      "latitude": "-4.62091",
+      "longitude": "55.43015"
+    },
+    {
+      "name": "La Passe",
+      "latitude": "-4.34808",
+      "longitude": "55.83269"
+    },
+    {
+      "name": "Anse Boileau",
+      "latitude": "-4.71667",
+      "longitude": "55.48333"
+    }
+  ],
+  "Africa/Khartoum": [
+    {
+      "name": "Al Hilāliyya",
+      "latitude": "14.9398",
+      "longitude": "33.234"
+    },
+    {
+      "name": "Abu Jibeha",
+      "latitude": "11.4562",
+      "longitude": "31.2285"
+    },
+    {
+      "name": "Jalqani",
+      "latitude": "12.4486",
+      "longitude": "34.2186"
+    }
+  ],
+  "Europe/Stockholm": [
+    {
+      "name": "Bjästa",
+      "latitude": "63.2",
+      "longitude": "18.5"
+    },
+    {
+      "name": "Näsum",
+      "latitude": "56.17693",
+      "longitude": "14.49706"
+    },
+    {
+      "name": "Gällivare",
+      "latitude": "67.13387",
+      "longitude": "20.65278"
+    }
+  ],
+  "Asia/Singapore": [
+    {
+      "name": "Singapore",
+      "latitude": "1.28967",
+      "longitude": "103.85007"
+    }
+  ],
+  "Atlantic/St_Helena": [
+    {
+      "name": "Georgetown",
+      "latitude": "-7.92861",
+      "longitude": "-14.41194"
+    },
+    {
+      "name": "Edinburgh of the Seven Seas",
+      "latitude": "-37.06757",
+      "longitude": "-12.31155"
+    },
+    {
+      "name": "Jamestown",
+      "latitude": "-15.93872",
+      "longitude": "-5.71675"
+    }
+  ],
+  "Europe/Ljubljana": [
+    {
+      "name": "Puconci",
+      "latitude": "46.70667",
+      "longitude": "16.15639"
+    },
+    {
+      "name": "Kobilje",
+      "latitude": "46.68472",
+      "longitude": "16.39778"
+    },
+    {
+      "name": "Ptuj",
+      "latitude": "46.42005",
+      "longitude": "15.87018"
+    }
+  ],
+  "Arctic/Longyearbyen": [
+    {
+      "name": "Longyearbyen",
+      "latitude": "78.22334",
+      "longitude": "15.64689"
+    },
+    {
+      "name": "Olonkinbyen",
+      "latitude": "70.9221",
+      "longitude": "-8.7187"
+    }
+  ],
+  "Europe/Bratislava": [
+    {
+      "name": "Rožňava",
+      "latitude": "48.66009",
+      "longitude": "20.53758"
+    },
+    {
+      "name": "Lipany",
+      "latitude": "49.15376",
+      "longitude": "20.96382"
+    },
+    {
+      "name": "Považská Bystrica",
+      "latitude": "49.12153",
+      "longitude": "18.42169"
+    }
+  ],
+  "Africa/Freetown": [
+    {
+      "name": "Koribundu",
+      "latitude": "7.70952",
+      "longitude": "-11.69354"
+    },
+    {
+      "name": "Yengema",
+      "latitude": "8.71441",
+      "longitude": "-11.17057"
+    },
+    {
+      "name": "Bunumbu",
+      "latitude": "8.17421",
+      "longitude": "-10.86432"
+    }
+  ],
+  "Europe/San_Marino": [
+    {
+      "name": "Borgo Maggiore",
+      "latitude": "43.94193",
+      "longitude": "12.44738"
+    },
+    {
+      "name": "Serravalle",
+      "latitude": "43.96897",
+      "longitude": "12.48167"
+    },
+    {
+      "name": "Poggio di Chiesanuova",
+      "latitude": "43.90451",
+      "longitude": "12.42142"
+    }
+  ],
+  "Africa/Dakar": [
+    {
+      "name": "Kayar",
+      "latitude": "14.91893",
+      "longitude": "-17.11978"
+    },
+    {
+      "name": "Khombole",
+      "latitude": "14.76667",
+      "longitude": "-16.7"
+    },
+    {
+      "name": "Dakar",
+      "latitude": "14.6937",
+      "longitude": "-17.44406"
+    }
+  ],
+  "Africa/Mogadishu": [
+    {
+      "name": "Bereeda",
+      "latitude": "11.87037",
+      "longitude": "51.05795"
+    },
+    {
+      "name": "Buulobarde",
+      "latitude": "3.85375",
+      "longitude": "45.56744"
+    },
+    {
+      "name": "Eyl",
+      "latitude": "7.9803",
+      "longitude": "49.8164"
+    }
+  ],
+  "America/Paramaribo": [
+    {
+      "name": "Albina",
+      "latitude": "5.49788",
+      "longitude": "-54.05522"
+    },
+    {
+      "name": "Onverwacht",
+      "latitude": "5.58983",
+      "longitude": "-55.19462"
+    },
+    {
+      "name": "Mariënburg",
+      "latitude": "5.87722",
+      "longitude": "-55.04322"
+    }
+  ],
+  "Africa/Juba": [
+    {
+      "name": "Terekeka",
+      "latitude": "5.44389",
+      "longitude": "31.75083"
+    },
+    {
+      "name": "Torit",
+      "latitude": "4.41177",
+      "longitude": "32.57046"
+    },
+    {
+      "name": "Renk",
+      "latitude": "11.7431",
+      "longitude": "32.8049"
+    }
+  ],
+  "Africa/Sao_Tome": [
+    {
+      "name": "São João dos Angolares",
+      "latitude": "0.13333",
+      "longitude": "6.65"
+    },
+    {
+      "name": "Santo António",
+      "latitude": "1.63943",
+      "longitude": "7.41951"
+    },
+    {
+      "name": "São João dos Angolares",
+      "latitude": "0.13417",
+      "longitude": "6.64944"
+    }
+  ],
+  "America/El_Salvador": [
+    {
+      "name": "Soyapango",
+      "latitude": "13.71024",
+      "longitude": "-89.13989"
+    },
+    {
+      "name": "Texistepeque",
+      "latitude": "14.13333",
+      "longitude": "-89.5"
+    },
+    {
+      "name": "Rosario de Mora",
+      "latitude": "13.57528",
+      "longitude": "-89.20889"
+    }
+  ],
+  "America/Lower_Princes": [
+    {
+      "name": "Lower Prince’s Quarter",
+      "latitude": "18.04987",
+      "longitude": "-63.03789"
+    },
+    {
+      "name": "Koolbaai",
+      "latitude": "18.04048",
+      "longitude": "-63.08397"
+    },
+    {
+      "name": "Cul de Sac",
+      "latitude": "18.04852",
+      "longitude": "-63.06513"
+    }
+  ],
+  "Asia/Damascus": [
+    {
+      "name": "As Sūsah",
+      "latitude": "34.53366",
+      "longitude": "40.95819"
+    },
+    {
+      "name": "Fīq",
+      "latitude": "32.77935",
+      "longitude": "35.70032"
+    },
+    {
+      "name": "Al Khushnīyah",
+      "latitude": "32.99941",
+      "longitude": "35.81084"
+    }
+  ],
+  "Africa/Mbabane": [
+    {
+      "name": "Siteki",
+      "latitude": "-26.4525",
+      "longitude": "31.94722"
+    },
+    {
+      "name": "Bulembu",
+      "latitude": "-25.96667",
+      "longitude": "31.13333"
+    },
+    {
+      "name": "Malkerns",
+      "latitude": "-26.56667",
+      "longitude": "31.18333"
+    }
+  ],
+  "America/Grand_Turk": [
+    {
+      "name": "Cockburn Town",
+      "latitude": "21.46122",
+      "longitude": "-71.14188"
+    }
+  ],
+  "Africa/Ndjamena": [
+    {
+      "name": "Melfi",
+      "latitude": "11.0598",
+      "longitude": "17.9355"
+    },
+    {
+      "name": "Béboto",
+      "latitude": "8.26681",
+      "longitude": "16.93898"
+    },
+    {
+      "name": "Gounou Gaya",
+      "latitude": "9.6294",
+      "longitude": "15.5132"
+    }
+  ],
+  "Indian/Kerguelen": [
+    {
+      "name": "Port-aux-Français",
+      "latitude": "-49.34916",
+      "longitude": "70.21937"
+    }
+  ],
+  "Africa/Lome": [
+    {
+      "name": "Bassar",
+      "latitude": "9.25025",
+      "longitude": "0.78213"
+    },
+    {
+      "name": "Sokodé",
+      "latitude": "8.98333",
+      "longitude": "1.13333"
+    },
+    {
+      "name": "Kandé",
+      "latitude": "9.95778",
+      "longitude": "1.04472"
+    }
+  ],
+  "Asia/Bangkok": [
+    {
+      "name": "Pa Tio",
+      "latitude": "15.83281",
+      "longitude": "104.38673"
+    },
+    {
+      "name": "Soeng Sang",
+      "latitude": "14.42642",
+      "longitude": "102.46058"
+    },
+    {
+      "name": "Pa Sang",
+      "latitude": "18.52617",
+      "longitude": "98.93936"
+    }
+  ],
+  "Pacific/Fakaofo": [
+    {
+      "name": "Nukunonu",
+      "latitude": "-9.20045",
+      "longitude": "-171.84804"
+    },
+    {
+      "name": "Atafu Village",
+      "latitude": "-8.54212",
+      "longitude": "-172.51591"
+    },
+    {
+      "name": "Fale old settlement",
+      "latitude": "-9.38516",
+      "longitude": "-171.24675"
+    }
+  ],
+  "Asia/Dili": [
+    {
+      "name": "Manatutu",
+      "latitude": "-8.51139",
+      "longitude": "126.01306"
+    },
+    {
+      "name": "Suai",
+      "latitude": "-9.31286",
+      "longitude": "125.25648"
+    },
+    {
+      "name": "Baukau",
+      "latitude": "-8.47572",
+      "longitude": "126.45633"
+    }
+  ],
+  "Asia/Ashgabat": [
+    {
+      "name": "Atamyrat",
+      "latitude": "37.83573",
+      "longitude": "65.21058"
+    },
+    {
+      "name": "Annau",
+      "latitude": "37.88754",
+      "longitude": "58.51596"
+    },
+    {
+      "name": "Türkmenbaşy",
+      "latitude": "40.02216",
+      "longitude": "52.95517"
+    }
+  ],
+  "Africa/Tunis": [
+    {
+      "name": "Erriadh",
+      "latitude": "33.82063",
+      "longitude": "10.85394"
+    },
+    {
+      "name": "Sejenane",
+      "latitude": "37.05722",
+      "longitude": "9.23806"
+    },
+    {
+      "name": "El Maamoura",
+      "latitude": "36.46499",
+      "longitude": "10.80612"
+    }
+  ],
+  "Pacific/Tongatapu": [
+    {
+      "name": "Pangai",
+      "latitude": "-19.81468",
+      "longitude": "-174.35423"
+    },
+    {
+      "name": "Hihifo",
+      "latitude": "-15.9544",
+      "longitude": "-173.79616"
+    },
+    {
+      "name": "Vaini",
+      "latitude": "-21.19292",
+      "longitude": "-175.17678"
+    }
+  ],
+  "Europe/Istanbul": [
+    {
+      "name": "Havran",
+      "latitude": "39.55833",
+      "longitude": "27.09833"
+    },
+    {
+      "name": "Keban",
+      "latitude": "38.7938",
+      "longitude": "38.73517"
+    },
+    {
+      "name": "Şaphane",
+      "latitude": "39.0273",
+      "longitude": "29.22218"
+    }
+  ],
+  "America/Port_of_Spain": [
+    {
+      "name": "Couva",
+      "latitude": "10.42248",
+      "longitude": "-61.46748"
+    },
+    {
+      "name": "Debe",
+      "latitude": "10.20846",
+      "longitude": "-61.45273"
+    },
+    {
+      "name": "Siparia",
+      "latitude": "10.14525",
+      "longitude": "-61.5074"
+    }
+  ],
+  "Pacific/Funafuti": [
+    {
+      "name": "Alapi Village",
+      "latitude": "-8.52074",
+      "longitude": "179.1968"
+    },
+    {
+      "name": "Toga Village",
+      "latitude": "-6.28764",
+      "longitude": "176.31472"
+    },
+    {
+      "name": "Savave Village",
+      "latitude": "-8.02731",
+      "longitude": "178.31351"
+    }
+  ],
+  "Asia/Taipei": [
+    {
+      "name": "Chang-hua",
+      "latitude": "24.07327",
+      "longitude": "120.56276"
+    },
+    {
+      "name": "Yilan",
+      "latitude": "24.757",
+      "longitude": "121.753"
+    },
+    {
+      "name": "Douliu",
+      "latitude": "23.70944",
+      "longitude": "120.54333"
+    }
+  ],
+  "Africa/Dar_es_Salaam": [
+    {
+      "name": "Naberera",
+      "latitude": "-4.2",
+      "longitude": "36.93333"
+    },
+    {
+      "name": "Kibakwe",
+      "latitude": "-6.71667",
+      "longitude": "36.36667"
+    },
+    {
+      "name": "Kiwira",
+      "latitude": "-9.17307",
+      "longitude": "33.54152"
+    }
+  ],
+  "Europe/Simferopol": [
+    {
+      "name": "Orlinoye",
+      "latitude": "44.44685",
+      "longitude": "33.77588"
+    },
+    {
+      "name": "Zheleznodorozhnoye",
+      "latitude": "44.7171",
+      "longitude": "33.80417"
+    },
+    {
+      "name": "Chistopolye",
+      "latitude": "45.36541",
+      "longitude": "36.18312"
+    }
+  ],
+  "Europe/Zaporozhye": [
+    {
+      "name": "Matviyivka",
+      "latitude": "47.07473",
+      "longitude": "35.14444"
+    },
+    {
+      "name": "Kreminna",
+      "latitude": "49.0495",
+      "longitude": "38.21792"
+    },
+    {
+      "name": "Alchevs’k",
+      "latitude": "48.46893",
+      "longitude": "38.81669"
+    }
+  ],
+  "Europe/Uzhgorod": [
+    {
+      "name": "Vary",
+      "latitude": "48.12207",
+      "longitude": "22.71281"
+    },
+    {
+      "name": "Kalyny",
+      "latitude": "48.14078",
+      "longitude": "23.8738"
+    },
+    {
+      "name": "Muzhiyevo",
+      "latitude": "48.17959",
+      "longitude": "22.69943"
+    }
+  ],
+  "Africa/Kampala": [
+    {
+      "name": "Lwengo",
+      "latitude": "-0.41611",
+      "longitude": "31.40806"
+    },
+    {
+      "name": "Wakiso",
+      "latitude": "0.40444",
+      "longitude": "32.45944"
+    },
+    {
+      "name": "Iganga",
+      "latitude": "0.60917",
+      "longitude": "33.46861"
+    }
+  ],
+  "America/Chicago": [
+    {
+      "name": "Crandall",
+      "latitude": "32.62791",
+      "longitude": "-96.45582"
+    },
+    {
+      "name": "Newbern",
+      "latitude": "36.11285",
+      "longitude": "-89.26174"
+    },
+    {
+      "name": "Seven Points",
+      "latitude": "32.32042",
+      "longitude": "-96.21303"
+    }
+  ],
+  "America/New_York": [
+    {
+      "name": "Bull Run Mountain Estates",
+      "latitude": "38.90372",
+      "longitude": "-77.66166"
+    },
+    {
+      "name": "New Bern",
+      "latitude": "35.10849",
+      "longitude": "-77.04411"
+    },
+    {
+      "name": "Windsor",
+      "latitude": "39.91621",
+      "longitude": "-76.58441"
+    }
+  ],
+  "America/Indiana/Indianapolis": [
+    {
+      "name": "Dale",
+      "latitude": "40.01671",
+      "longitude": "-86.4"
+    },
+    {
+      "name": "Edinburgh",
+      "latitude": "39.35422",
+      "longitude": "-85.96666"
+    },
+    {
+      "name": "New Paris",
+      "latitude": "41.50033",
+      "longitude": "-85.82805"
+    }
+  ],
+  "America/Indiana/Vincennes": [
+    {
+      "name": "Ferdinand",
+      "latitude": "38.22394",
+      "longitude": "-86.86222"
+    },
+    {
+      "name": "Bicknell",
+      "latitude": "38.77421",
+      "longitude": "-87.30779"
+    },
+    {
+      "name": "Huntingburg",
+      "latitude": "38.29894",
+      "longitude": "-86.955"
+    }
+  ],
+  "America/Indiana/Tell_City": [
+    {
+      "name": "Cannelton",
+      "latitude": "37.91144",
+      "longitude": "-86.74443"
+    },
+    {
+      "name": "Tell City",
+      "latitude": "37.95144",
+      "longitude": "-86.76777"
+    }
+  ],
+  "America/Kentucky/Louisville": [
+    {
+      "name": "Jeffersontown",
+      "latitude": "38.19424",
+      "longitude": "-85.5644"
+    },
+    {
+      "name": "Barbourmeade",
+      "latitude": "38.29729",
+      "longitude": "-85.60329"
+    },
+    {
+      "name": "Northfield",
+      "latitude": "38.28701",
+      "longitude": "-85.64107"
+    }
+  ],
+  "America/Indiana/Marengo": [
+    {
+      "name": "English",
+      "latitude": "38.3345",
+      "longitude": "-86.46415"
+    }
+  ],
+  "America/Indiana/Petersburg": [
+    {
+      "name": "Petersburg",
+      "latitude": "38.49199",
+      "longitude": "-87.27862"
+    }
+  ],
+  "America/Indiana/Vevay": [
+    {
+      "name": "Vevay",
+      "latitude": "38.74784",
+      "longitude": "-85.06717"
+    }
+  ],
+  "America/Kentucky/Monticello": [
+    {
+      "name": "Monticello",
+      "latitude": "36.82979",
+      "longitude": "-84.84911"
+    }
+  ],
+  "America/Indiana/Knox": [
+    {
+      "name": "Bass Lake",
+      "latitude": "41.20726",
+      "longitude": "-86.60196"
+    },
+    {
+      "name": "Knox",
+      "latitude": "41.29588",
+      "longitude": "-86.62501"
+    },
+    {
+      "name": "North Judson",
+      "latitude": "41.21504",
+      "longitude": "-86.77585"
+    }
+  ],
+  "America/Indiana/Winamac": [
+    {
+      "name": "Winamac",
+      "latitude": "41.05143",
+      "longitude": "-86.60306"
+    }
+  ],
+  "America/Menominee": [
+    {
+      "name": "Crystal Falls",
+      "latitude": "46.09801",
+      "longitude": "-88.33402"
+    },
+    {
+      "name": "Quinnesec",
+      "latitude": "45.80635",
+      "longitude": "-87.98846"
+    },
+    {
+      "name": "Iron River",
+      "latitude": "46.09273",
+      "longitude": "-88.64235"
+    }
+  ],
+  "America/Phoenix": [
+    {
+      "name": "Nogales",
+      "latitude": "31.34038",
+      "longitude": "-110.93425"
+    },
+    {
+      "name": "Laveen",
+      "latitude": "33.36282",
+      "longitude": "-112.16932"
+    },
+    {
+      "name": "Flagstaff",
+      "latitude": "35.19807",
+      "longitude": "-111.65127"
+    }
+  ],
+  "America/Los_Angeles": [
+    {
+      "name": "Lompico",
+      "latitude": "37.1055",
+      "longitude": "-122.05274"
+    },
+    {
+      "name": "Fircrest",
+      "latitude": "47.23954",
+      "longitude": "-122.51596"
+    },
+    {
+      "name": "The Dalles",
+      "latitude": "45.59456",
+      "longitude": "-121.17868"
+    }
+  ],
+  "America/Denver": [
+    {
+      "name": "Smithfield",
+      "latitude": "41.83826",
+      "longitude": "-111.83272"
+    },
+    {
+      "name": "Spring City",
+      "latitude": "39.48246",
+      "longitude": "-111.49602"
+    },
+    {
+      "name": "Liberty",
+      "latitude": "41.33355",
+      "longitude": "-111.86355"
+    }
+  ],
+  "America/Juneau": [
+    {
+      "name": "Juneau",
+      "latitude": "58.30194",
+      "longitude": "-134.41972"
+    },
+    {
+      "name": "Craig",
+      "latitude": "55.47639",
+      "longitude": "-133.14833"
+    },
+    {
+      "name": "Haines",
+      "latitude": "59.23595",
+      "longitude": "-135.44533"
+    }
+  ],
+  "America/Sitka": [
+    {
+      "name": "Sitka",
+      "latitude": "57.05315",
+      "longitude": "-135.33088"
+    },
+    {
+      "name": "Wrangell",
+      "latitude": "56.47083",
+      "longitude": "-132.37667"
+    },
+    {
+      "name": "Ketchikan",
+      "latitude": "55.3418",
+      "longitude": "-131.64757"
+    }
+  ],
+  "America/Metlakatla": [
+    {
+      "name": "Metlakatla",
+      "latitude": "55.12848",
+      "longitude": "-131.57519"
+    }
+  ],
+  "America/Boise": [
+    {
+      "name": "Sun Valley",
+      "latitude": "43.69713",
+      "longitude": "-114.35172"
+    },
+    {
+      "name": "Tyhee",
+      "latitude": "42.95158",
+      "longitude": "-112.46637"
+    },
+    {
+      "name": "Kimberly",
+      "latitude": "42.5338",
+      "longitude": "-114.36476"
+    }
+  ],
+  "America/North_Dakota/Beulah": [
+    {
+      "name": "Hazen",
+      "latitude": "47.29445",
+      "longitude": "-101.62266"
+    },
+    {
+      "name": "Stanton",
+      "latitude": "47.32111",
+      "longitude": "-101.38155"
+    },
+    {
+      "name": "Beulah",
+      "latitude": "47.26334",
+      "longitude": "-101.77795"
+    }
+  ],
+  "America/North_Dakota/Center": [
+    {
+      "name": "Center",
+      "latitude": "47.11638",
+      "longitude": "-101.29959"
+    }
+  ],
+  "America/North_Dakota/New_Salem": [
+    {
+      "name": "Mandan",
+      "latitude": "46.82666",
+      "longitude": "-100.88958"
+    }
+  ],
+  "Pacific/Honolulu": [
+    {
+      "name": "Pepeekeo",
+      "latitude": "19.83361",
+      "longitude": "-155.10722"
+    },
+    {
+      "name": "Kaanapali Landing",
+      "latitude": "20.9309",
+      "longitude": "-156.68778"
+    },
+    {
+      "name": "Ko Olina",
+      "latitude": "21.33993",
+      "longitude": "-158.12562"
+    }
+  ],
+  "America/Anchorage": [
+    {
+      "name": "Cordova",
+      "latitude": "60.5432",
+      "longitude": "-145.75867"
+    },
+    {
+      "name": "Y",
+      "latitude": "62.16129",
+      "longitude": "-149.85075"
+    },
+    {
+      "name": "Kodiak Station",
+      "latitude": "57.76587",
+      "longitude": "-152.60004"
+    }
+  ],
+  "America/Nome": [
+    {
+      "name": "Chevak",
+      "latitude": "61.52778",
+      "longitude": "-165.58639"
+    },
+    {
+      "name": "King Cove",
+      "latitude": "55.06087",
+      "longitude": "-162.31853"
+    },
+    {
+      "name": "Kotzebue",
+      "latitude": "66.89846",
+      "longitude": "-162.59809"
+    }
+  ],
+  "America/Adak": [
+    {
+      "name": "Unalaska",
+      "latitude": "53.87361",
+      "longitude": "-166.53667"
+    }
+  ],
+  "America/Montevideo": [
+    {
+      "name": "San Félix",
+      "latitude": "-32.34631",
+      "longitude": "-58.10094"
+    },
+    {
+      "name": "Trinidad",
+      "latitude": "-33.5165",
+      "longitude": "-56.89957"
+    },
+    {
+      "name": "Palmitas",
+      "latitude": "-33.50719",
+      "longitude": "-57.80079"
+    }
+  ],
+  "Asia/Samarkand": [
+    {
+      "name": "Beruniy Shahri",
+      "latitude": "41.69904",
+      "longitude": "60.75501"
+    },
+    {
+      "name": "Shumanay Shahri",
+      "latitude": "42.63433",
+      "longitude": "58.9306"
+    },
+    {
+      "name": "Kogon",
+      "latitude": "39.72278",
+      "longitude": "64.55167"
+    }
+  ],
+  "Asia/Tashkent": [
+    {
+      "name": "Kirguli",
+      "latitude": "40.43553",
+      "longitude": "71.76721"
+    },
+    {
+      "name": "Piskent",
+      "latitude": "40.89722",
+      "longitude": "69.35056"
+    },
+    {
+      "name": "Shahrixon",
+      "latitude": "40.71331",
+      "longitude": "72.05706"
+    }
+  ],
+  "Europe/Vatican": [
+    {
+      "name": "Vatican City",
+      "latitude": "41.90268",
+      "longitude": "12.45414"
+    }
+  ],
+  "America/St_Vincent": [
+    {
+      "name": "Chateaubelair",
+      "latitude": "13.29069",
+      "longitude": "-61.24043"
+    },
+    {
+      "name": "Kingstown Park",
+      "latitude": "13.15924",
+      "longitude": "-61.23161"
+    },
+    {
+      "name": "Barrouallie",
+      "latitude": "13.23676",
+      "longitude": "-61.27275"
+    }
+  ],
+  "America/Caracas": [
+    {
+      "name": "Boca de Uchire",
+      "latitude": "10.13191",
+      "longitude": "-65.42236"
+    },
+    {
+      "name": "La Yuca",
+      "latitude": "8.73109",
+      "longitude": "-70.18072"
+    },
+    {
+      "name": "Caraballeda",
+      "latitude": "10.61216",
+      "longitude": "-66.85192"
+    }
+  ],
+  "America/Tortola": [
+    {
+      "name": "Road Town",
+      "latitude": "18.42693",
+      "longitude": "-64.62079"
+    }
+  ],
+  "America/St_Thomas": [
+    {
+      "name": "Charlotte Amalie",
+      "latitude": "18.3419",
+      "longitude": "-64.9307"
+    },
+    {
+      "name": "Saint Croix",
+      "latitude": "17.72751",
+      "longitude": "-64.74698"
+    },
+    {
+      "name": "Cruz Bay",
+      "latitude": "18.33134",
+      "longitude": "-64.79375"
+    }
+  ],
+  "Asia/Ho_Chi_Minh": [
+    {
+      "name": "Nông Cống",
+      "latitude": "19.62403",
+      "longitude": "105.64941"
+    },
+    {
+      "name": "Thủ Dầu Một",
+      "latitude": "10.9804",
+      "longitude": "106.6519"
+    },
+    {
+      "name": "Chũ",
+      "latitude": "21.37379",
+      "longitude": "106.56649"
+    }
+  ],
+  "Pacific/Efate": [
+    {
+      "name": "Port-Vila",
+      "latitude": "-17.73648",
+      "longitude": "168.31366"
+    },
+    {
+      "name": "Luganville",
+      "latitude": "-15.51989",
+      "longitude": "167.16235"
+    },
+    {
+      "name": "Sola",
+      "latitude": "-13.87611",
+      "longitude": "167.55167"
+    }
+  ],
+  "Pacific/Wallis": [
+    {
+      "name": "Leava",
+      "latitude": "-14.29333",
+      "longitude": "-178.15833"
+    },
+    {
+      "name": "Mata-Utu",
+      "latitude": "-13.28163",
+      "longitude": "-176.17453"
+    },
+    {
+      "name": "Alo",
+      "latitude": "-14.31096",
+      "longitude": "-178.11094"
+    }
+  ],
+  "Pacific/Apia": [
+    {
+      "name": "Afega",
+      "latitude": "-13.79726",
+      "longitude": "-171.85308"
+    },
+    {
+      "name": "Fasito‘outa",
+      "latitude": "-13.81163",
+      "longitude": "-171.94063"
+    },
+    {
+      "name": "Safotu",
+      "latitude": "-13.45132",
+      "longitude": "-172.40177"
+    }
+  ],
+  "Asia/Aden": [
+    {
+      "name": "Najd al Jumā‘ī",
+      "latitude": "13.91581",
+      "longitude": "44.32414"
+    },
+    {
+      "name": "Al Miftāḩ",
+      "latitude": "15.97431",
+      "longitude": "43.46381"
+    },
+    {
+      "name": "An Nāşirah",
+      "latitude": "15.77277",
+      "longitude": "43.80902"
+    }
+  ],
+  "Indian/Mayotte": [
+    {
+      "name": "Bouéni",
+      "latitude": "-12.9025",
+      "longitude": "45.07611"
+    },
+    {
+      "name": "Dembeni",
+      "latitude": "-12.8436",
+      "longitude": "45.18436"
+    },
+    {
+      "name": "Acoua",
+      "latitude": "-12.72391",
+      "longitude": "45.05819"
+    }
+  ],
+  "Africa/Johannesburg": [
+    {
+      "name": "Van Wyksvlei",
+      "latitude": "-30.35101",
+      "longitude": "21.82498"
+    },
+    {
+      "name": "Stutterheim",
+      "latitude": "-32.57076",
+      "longitude": "27.42396"
+    },
+    {
+      "name": "Malmesbury",
+      "latitude": "-33.4608",
+      "longitude": "18.72714"
+    }
+  ],
+  "Africa/Lusaka": [
+    {
+      "name": "Livingstone",
+      "latitude": "-17.84194",
+      "longitude": "25.85425"
+    },
+    {
+      "name": "Kawambwa",
+      "latitude": "-9.7915",
+      "longitude": "29.07913"
+    },
+    {
+      "name": "Nchelenge",
+      "latitude": "-9.34506",
+      "longitude": "28.73396"
+    }
+  ],
+  "Africa/Harare": [
+    {
+      "name": "Beitbridge",
+      "latitude": "-22.21667",
+      "longitude": "30"
+    },
+    {
+      "name": "Bulawayo",
+      "latitude": "-20.15",
+      "longitude": "28.58333"
+    },
+    {
+      "name": "Mutoko",
+      "latitude": "-17.39699",
+      "longitude": "32.22677"
+    }
+  ]
+}

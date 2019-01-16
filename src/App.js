@@ -7,7 +7,9 @@ import './App.css';
 class App extends Component {
 
   componentDidMount(){
-    console.log(moment().tz("America/Los_Angeles").format());
+    for(var timezone in cityData){
+      console.log(moment().tz(timezone))
+    }
     
   }
 
