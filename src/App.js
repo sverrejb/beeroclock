@@ -8,7 +8,8 @@ class App extends Component {
 
   constructor(props) {
     super(props);
-    this.state = {citiesWhereItIsFiveoclock: []};
+    this.state = {citiesWhereItIsFiveoclock: [],
+    currentCity: {}};
   }
 
   componentWillMount(){
@@ -24,17 +25,28 @@ class App extends Component {
     }
     this.setState({
       citiesWhereItIsFiveoclock: cities,
+      currentCity: cities[Math.floor(Math.random()*cities.length)]
     });
     
   }
 
-  render() {
+  refresh = () => {
     const cities = this.state.citiesWhereItIsFiveoclock;
-    const city = cities[Math.floor(Math.random()*cities.length)]
+    this.setState({
+      currentCity: cities[Math.floor(Math.random()*cities.length)]
+    })
+
+  }
+
+  render() {
+    const city = this.state.currentCity;
     return (
       <div className="App">
         <h1>It's five o'clock in {city.name} ...</h1>
         <a href={`https://www.google.no/maps/place/${city.latitude},${city.longitude}`}>{city.latitude},{city.longitude}</a>
+        <br />
+        <br />
+        <button onClick={this.refresh}>And other places</button>
       </div>
     );
   }
