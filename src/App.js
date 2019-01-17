@@ -6,17 +6,35 @@ import './App.css';
 
 class App extends Component {
 
-  componentDidMount(){
+  constructor(props) {
+    super(props);
+    this.state = {citiesWhereItIsFiveoclock: []};
+  }
+
+  componentWillMount(){
+    var cities = []
     for(var timezone in cityData){
-      console.log(moment().tz(timezone))
+      
+      const candidate = moment().tz(timezone);
+      const localTime = candidate.get('hours');
+      if(localTime === 17){
+        cities.push(...cityData[timezone])
+      }
+      
     }
+    this.setState({
+      citiesWhereItIsFiveoclock: cities,
+    });
     
   }
 
   render() {
+    const cities = this.state.citiesWhereItIsFiveoclock;
+    const city = cities[Math.floor(Math.random()*cities.length)]
     return (
       <div className="App">
-        <h1>foo</h1>
+        <h1>It's five o'clock in {city.name} ...</h1>
+        <p>{city.latitude},{city.longitude}</p>
       </div>
     );
   }

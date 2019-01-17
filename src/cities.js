@@ -3253,23 +3253,6 @@ export const cityData = {
       "longitude": "62.1075"
     }
   ],
-  "Asia/Qostanay": [
-    {
-      "name": "Tyuratam",
-      "latitude": "45.65005",
-      "longitude": "63.31163"
-    },
-    {
-      "name": "Tobol",
-      "latitude": "52.69366",
-      "longitude": "62.5914"
-    },
-    {
-      "name": "Torghay",
-      "latitude": "49.63389",
-      "longitude": "63.49806"
-    }
-  ],
   "Asia/Vientiane": [
     {
       "name": "Sainyabuli",
