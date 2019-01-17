@@ -34,7 +34,7 @@ class App extends Component {
     return (
       <div className="App">
         <h1>It's five o'clock in {city.name} ...</h1>
-        <p>{city.latitude},{city.longitude}</p>
+        <a href={`https://www.google.no/maps/place/${city.latitude},${city.longitude}`}>{city.latitude},{city.longitude}</a>
       </div>
     );
   }
