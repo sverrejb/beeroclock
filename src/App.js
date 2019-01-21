@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import moment from 'moment-timezone';
 import { cityData } from './cities'
 import './App.css';
-
+import Gmap from './Map'
 
 class App extends Component {
 
@@ -40,13 +40,19 @@ class App extends Component {
 
   render() {
     const city = this.state.currentCity;
+    const latitude = parseFloat(city.latitude)
+    const longitude = parseFloat(city.longitude)
     return (
       <div className="App">
-        <h1>It's five o'clock in {city.name} ...</h1>
+      <div>
+      <h1>It's five o'clock in {city.name} ...</h1>
         <a href={`https://www.google.no/maps/place/${city.latitude},${city.longitude}`}>{city.latitude},{city.longitude}</a>
         <br />
         <br />
-        <button onClick={this.refresh}>And other places</button>
+        <button onClick={this.refresh}>And other places</button>        
+      </div>
+    
+      <Gmap center={{lat:latitude, lng:longitude}} />
       </div>
     );
   }
