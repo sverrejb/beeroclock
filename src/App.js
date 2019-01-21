@@ -46,8 +46,6 @@ class App extends Component {
       <div className="App">
       <div>
       <h1>It's five o'clock in {city.name} ...</h1>
-        <a href={`https://www.google.no/maps/place/${city.latitude},${city.longitude}`}>{city.latitude},{city.longitude}</a>
-        <br />
         <br />
         <button onClick={this.refresh}>And other places</button>        
       </div>
