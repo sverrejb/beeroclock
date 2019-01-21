@@ -44,10 +44,9 @@ class App extends Component {
     const longitude = parseFloat(city.longitude)
     return (
       <div className="App">
-      <div>
-      <h1>It's five o'clock in {city.name} ...</h1>
-        <br />
-        <button onClick={this.refresh}>And other places</button>        
+      <div id="AppHeader">
+        <h1>It's five o'clock in {city.name}</h1>
+        <button onClick={this.refresh}>And other places</button>
       </div>
     
       <Gmap center={{lat:latitude, lng:longitude}} />
