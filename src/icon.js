@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Icon = () => {
+const Icon = (props) => {
     return <span aria-label="beer" role="img" style={{fontSize: "3rem"}}>🍺</span>
 };
 

@@ -22,7 +22,6 @@ class Gmap extends Component {
           >
           <Icon {...this.props.center}/>
           </GoogleMapReact>
-        />
       </div>
     );
   }
