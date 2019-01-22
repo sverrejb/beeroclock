@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import GoogleMapReact from 'google-map-react';
+import Icon from './icon'
   
 class Gmap extends Component {
   static defaultProps = {
@@ -18,6 +19,9 @@ class Gmap extends Component {
           bootstrapURLKeys={{ key: 'AIzaSyBnyR9r839WhGTVJPP49C7DfxhAeRqd084' }}
           center={this.props.center}
           zoom={this.props.zoom}
+          >
+          <Icon {...this.props.center}/>
+          </GoogleMapReact>
         />
       </div>
     );

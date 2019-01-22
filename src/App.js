@@ -45,7 +45,7 @@ class App extends Component {
     return (
       <div className="App">
       <div id="AppHeader">
-        <h1>It's five o'clock in {city.name}</h1>
+        <h1>It's five o'clock in {city.name} 🍻</h1>
         <button onClick={this.refresh}>And other places</button>
       </div>
     
